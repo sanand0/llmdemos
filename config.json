@@ -1,0 +1,64 @@
+{
+  "demos": [
+    {
+      "icon": "bi-camera-video",
+      "title": "Video Chat",
+      "url": "https://krishna-gramener.github.io/clinical-videochat/",
+      "description": "Streamlines extraction of key insights from lengthy video transcripts via a conversational interface, enabling rapid retrieval of tutorial highlights or expert insights without manual review."
+    },
+    {
+      "icon": "bi-geo-alt",
+      "title": "GeoFinder",
+      "url": "https://krishna-gramener.github.io/geofinder/",
+      "description": "Enables natural-language geographic queries with interactive map views, helping executives visualize location-based data and make informed decisions on markets, logistics, or site planning."
+    },
+    {
+      "icon": "bi-play",
+      "title": "K12 Video Analysis",
+      "url": "https://krishna-gramener.github.io/k12-videoanalysis/",
+      "description": "Leverages LLM embeddings and automated transcription to generate personalized video highlights for students, improving engagement and tailoring content to individual learning profiles."
+    },
+    {
+      "icon": "bi-file-earmark-diff",
+      "title": "PDF Text Comparison",
+      "url": "https://krishna-gramener.github.io/pdf-content-comparison/",
+      "description": "Provides side-by-side text comparison of two PDFs, quickly identifying content differences to streamline contract review, regulatory compliance checks, or editorial workflows."
+    },
+    {
+      "icon": "bi-person-lines-fill",
+      "title": "Personalized Decision Assistant",
+      "url": "https://krishna-gramener.github.io/personal-decision-assistant/",
+      "description": "Offers a multi-LLM conversational assistant with data and mind-map visualizations to guide strategic decision-making, reducing cognitive load on business leaders."
+    },
+    {
+      "icon": "bi-file-earmark-bar-graph",
+      "title": "Ratings Critical Data",
+      "url": "https://krishna-gramener.github.io/ratings-critical-data/",
+      "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments."
+    },
+    {
+      "icon": "bi-plug",
+      "title": "API Agent",
+      "url": "https://prudhvi1709.github.io/hubspotapiagent/",
+      "description": "Allows CEOs to query HubSpot CRM data via natural language, surfacing real-time sales and marketing insights without technical integration overhead."
+    },
+    {
+      "icon": "bi-flask-fill",
+      "title": "Hypothesis Forge",
+      "url": "https://prudhvi1709.github.io/hypoforge/",
+      "description": "Automatically generates and statistically tests data hypotheses—returning success flags and p-values to accelerate data-driven experimentation and decision-making."
+    },
+    {
+      "icon": "bi-stoplights",
+      "title": "Singapore Traffic Dashboard",
+      "url": "https://prudhvi1709.github.io/sgtraffic/",
+      "description": "Delivers real­time traffic volume, congestion analytics, and anomaly detection across camera feeds to optimize urban mobility and infrastructure planning."
+    },
+    {
+      "icon": "bi-bell",
+      "title": "Hospital Video Analytics",
+      "url": "https://prudhvi1709.github.io/videoalert/",
+      "description": "Employs AI-powered computer vision for real-time anomaly detection in video feeds, enhancing patient safety and operational alerts in healthcare environments."
+    }
+  ]
+}
