@@ -15,7 +15,7 @@
     {
       "icon": "bi-file-text",
       "title": "Entity Extractor",
-      "url": "https://prudhvi1709.github.io/llmentityextractor/",
+      "url": "https://llmentityextractor.sanand.workers.dev/",
       "description": "Extracts entities from any document or content using LLMs."
     },
     {
@@ -45,7 +45,7 @@
     {
       "icon": "bi-person-lines-fill",
       "title": "Personalized Decision Assistant",
-      "url": "https://krishna-gramener.github.io/personal-decision-assistant/",
+      "url": "https://krishna-gramener.github.io/decision-assistant/",
       "description": "Offers a multi-LLM conversational assistant with data and mind-map visualizations to guide strategic decision-making, reducing cognitive load on business leaders."
     },
     {
