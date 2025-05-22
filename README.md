@@ -21,4 +21,4 @@ git commit -m "Add new demo"
 git push
 ```
 
-This is deployed on CloudFlare (root.node@gmail.com) with Zero Trust auth.
+This is deployed at [llmdemos.s-anand.net](https://llmdemos.s-anand.net/) via CloudFlare DNS (root.node@gmail.com) via [Zero Trust auth](https://one.dash.cloudflare.com/2c483e1dd66869c9554c6949a2d17d96/access/apps/self-hosted/23c76465-2ba4-4a39-b742-37bead262a28/edit).

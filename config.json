@@ -1,6 +1,24 @@
 {
   "demos": [
     {
+      "icon": "bi-capsule",
+      "title": "AEvolution",
+      "url": "https://krishna-gramener.github.io/adverse-events/",
+      "description": "A web-based tool for analyzing medical documents to identify adverse events, related medications, and relevant research articles."
+    },
+    {
+      "icon": "bi-microphone",
+      "title": "Podcastgen",
+      "url": "https://prudhvi1709.github.io/podcastgen/",
+      "description": "Generates podcast transcripts and audio from any document or content using LLMs."
+    },
+    {
+      "icon": "bi-file-text",
+      "title": "Entity Extractor",
+      "url": "https://prudhvi1709.github.io/llmentityextractor/",
+      "description": "Extracts entities from any document or content using LLMs."
+    },
+    {
       "icon": "bi-camera-video",
       "title": "Video Chat",
       "url": "https://krishna-gramener.github.io/clinical-videochat/",
@@ -43,9 +61,15 @@
       "description": "Allows CEOs to query HubSpot CRM data via natural language, surfacing real-time sales and marketing insights without technical integration overhead."
     },
     {
+      "icon": "bi-chat-left-dots",
+      "title": "DataChat",
+      "url": "https://prudhvi1709.github.io/datachat-llmf/",
+      "description": ""
+    },
+    {
       "icon": "bi-flask-fill",
       "title": "Hypothesis Forge",
-      "url": "https://prudhvi1709.github.io/hypoforge/",
+      "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
       "description": "Automatically generates and statistically tests data hypotheses—returning success flags and p-values to accelerate data-driven experimentation and decision-making."
     },
     {
