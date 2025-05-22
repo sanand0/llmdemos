@@ -57,8 +57,8 @@
     {
       "icon": "bi-plug",
       "title": "API Agent",
-      "url": "https://prudhvi1709.github.io/hubspotapiagent/",
-      "description": "Allows CEOs to query HubSpot CRM data via natural language, surfacing real-time sales and marketing insights without technical integration overhead."
+      "url": "https://sanand0.github.io/apiagent/",
+      "description": "Allows usersto query APIs via natural language, surfacing real-time without technical integration overhead."
     },
     {
       "icon": "bi-chat-left-dots",
