@@ -1,6 +1,18 @@
 {
   "demos": [
     {
+      "icon": "bi-person",
+      "title": "Personagen",
+      "url": "https://nitin399-maker.github.io/personagen/",
+      "description": "Generates synthetic audience based on profiles to test marketing campaigns and run surveys."
+    },
+    {
+      "icon": "bi-bar-chart-line",
+      "title": "Topic Trends",
+      "url": "https://sanand0.github.io/topictrends/",
+      "description": "Tracks trends in arXiv paper topics over time using LLMs."
+    },
+    {
       "icon": "bi-capsule",
       "title": "AEvolution",
       "url": "https://krishna-gramener.github.io/adverse-events/",
