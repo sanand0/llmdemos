@@ -2,6 +2,10 @@
 
 A collection of LLM demos.
 
+This list aggregates interactive projects from [prudhvi1709](https://github.com/prudhvi1709),
+[krishna-gramener](https://github.com/krishna-gramener) and
+[nitin399-maker](https://github.com/nitin399-maker) that were updated after **June 2025**.
+
 ## Setup
 
 To run locally:

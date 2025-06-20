@@ -96,5 +96,96 @@
       "url": "https://prudhvi1709.github.io/videoalert/",
       "description": "Employs AI-powered computer vision for real-time anomaly detection in video feeds, enhancing patient safety and operational alerts in healthcare environments."
     }
+,
+    {
+      "icon": "bi-cpu",
+      "title": "AI Pipe",
+      "url": "https://aipipe.org/",
+      "description": "Builds serverless LLM workflows using any OpenAI-compatible API."
+    },
+    {
+      "icon": "bi-megaphone",
+      "title": "BSToast",
+      "url": "https://prudhvi1709.github.io/bstoast/",
+      "description": "Tiny library offering Bootstrap toast notifications as a modern alert replacement."
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Decision Tree Builder",
+      "url": "https://prudhvi1709.github.io/decisiontreegen/",
+      "description": "Interactive tool to build and visualize decision trees in the browser."
+    },
+    {
+      "icon": "bi-diagram-3-fill",
+      "title": "DTGen",
+      "url": "https://prudhvi1709.github.io/dtgen/",
+      "description": "AI-assisted decision tree generator with advanced tree editing features."
+    },
+    {
+      "icon": "bi-briefcase-fill",
+      "title": "LinkedIn Apply Bot",
+      "url": "https://prudhvi1709.github.io/linkedinapply/",
+      "description": "Bookmarklet automating LinkedIn 'Easy Apply' with live progress tracking."
+    },
+    {
+      "icon": "bi-bar-chart",
+      "title": "Model Discipline",
+      "url": "https://prudhvi1709.github.io/model-discipline/",
+      "description": "Benchmarks instruction-following compliance of LLMs across providers."
+    },
+    {
+      "icon": "bi-graph-up-arrow",
+      "title": "MTEB Eval Dashboard",
+      "url": "https://prudhvi1709.github.io/mtebeval/",
+      "description": "Visualizes embedding model scores from the Massive Text Embedding Benchmark."
+    },
+    {
+      "icon": "bi-emoji-smile",
+      "title": "Sentiment Analyzer",
+      "url": "https://prudhvi1709.github.io/sentiment-analyzer/",
+      "description": "Browser-based tool for sentiment and emotion analysis with charts."
+    },
+    {
+      "icon": "bi-journal-text",
+      "title": "AddNotes Supabase",
+      "url": "https://krishna-gramener.github.io/addnotes-supabase/",
+      "description": "Real-time notes app using Supabase auth and database."
+    },
+    {
+      "icon": "bi-funnel-fill",
+      "title": "Data Quality Analyzer",
+      "url": "https://krishna-gramener.github.io/data-quality-analyzer/",
+      "description": "Analyzes spreadsheets in-browser using LLM-generated Python via Pyodide."
+    },
+    {
+      "icon": "bi-easel",
+      "title": "PPT Generator",
+      "url": "https://krishna-gramener.github.io/ppt-generator/",
+      "description": "Creates polished presentations from documents using AI-powered layouts."
+    },
+    {
+      "icon": "bi-terminal-dash",
+      "title": "Carlinirepo Evaluator",
+      "url": "https://nitin399-maker.github.io/automate_carlinirepo/",
+      "description": "Interactive promptfoo tester for running evaluation suites."
+    },
+    {
+      "icon": "bi-signpost-2-fill",
+      "title": "Decision Playbook",
+      "url": "https://nitin399-maker.github.io/decisionplaybook/",
+      "description": "Step-by-step visualizer for exploring decision tree playbooks."
+    },
+    {
+      "icon": "bi-lightning-charge-fill",
+      "title": "LLM Word Predictor",
+      "url": "https://nitin399-maker.github.io/LLM-FILL/",
+      "description": "Demonstrates language model fill-in-the-blank predictions with probabilities."
+    },
+    {
+      "icon": "bi-file-earmark-lock2",
+      "title": "Document Compliance Analyzer",
+      "url": "https://nitin399-maker.github.io/pdfext/",
+      "description": "Checks uploaded PDFs against custom compliance queries via OpenRouter."
+    }
   ]
 }
