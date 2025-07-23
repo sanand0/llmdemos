@@ -2,6 +2,12 @@
   "demos": [
     {
       "icon": "bi-bar-chart-steps",
+      "title": "Prompt Evals",
+      "url": "https://promptevals.straivedemo.com/",
+      "description": "Automate prompt engineering by validating the output using LLMs and revising prompts"
+    },
+    {
+      "icon": "bi-bar-chart-steps",
       "title": "DataChat GoogleBot",
       "url": "https://mail.google.com/chat/u/2/#chat/dm/_MyXL8AAAAE",
       "description": "Add a dataset to your Google Chat thread and have natural language conversations with datasets"
