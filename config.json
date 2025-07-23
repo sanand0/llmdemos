@@ -1,6 +1,12 @@
 {
   "demos": [
     {
+      "icon": "bi-bar-chart-steps",
+      "title": "DataChat GoogleBot",
+      "url": "https://mail.google.com/chat/u/2/#chat/dm/_MyXL8AAAAE",
+      "description": "Add a dataset to your Google Chat thread and have natural language conversations with datasets"
+    },
+    {
       "icon": "bi-person",
       "title": "Personagen",
       "url": "https://nitin399-maker.github.io/personagen/",
@@ -13,16 +19,82 @@
       "description": "Tracks trends in arXiv paper topics over time using LLMs."
     },
     {
-      "icon": "bi-capsule",
-      "title": "AEvolution",
-      "url": "https://krishna-gramener.github.io/adverse-events/",
-      "description": "A web-based tool for analyzing medical documents to identify adverse events, related medications, and relevant research articles."
+      "icon": "bi-journal-richtext",
+      "title": "Prompt-to-plot",
+      "url": "https://sanand0.github.io/talks/2025-06-28-prompt-to-plot/#14",
+      "description": "A series of visual data analyses created by designers (who don't know how to code) purely using LLM coding agents"
+    },
+    {
+      "icon": "bi-chat-dots",
+      "title": "LLM Daydreams",
+      "url": "https://tools.s-anand.net/daydream/",
+      "description": "Can LLMs discover truly innovative ideas through daydreaming by combining two concepts in a novel way?"
+    },
+    {
+      "icon": "bi-openai",
+      "title": "Straive ChatGPT",
+      "url": "https://tools.s-anand.net/straiveintelligence/",
+      "description": "A bookmarklet that turns ChatGPT into a Straive branded web application. Useful to test new capabilities"
     },
     {
       "icon": "bi-microphone",
       "title": "Podcastgen",
-      "url": "https://prudhvi1709.github.io/podcastgen/",
+      "url": "https://tools.s-anand.net/podcast/",
       "description": "Generates podcast transcripts and audio from any document or content using LLMs."
+    },
+    {
+      "icon": "bi-plug",
+      "title": "API Agent",
+      "url": "https://sanand0.github.io/apiagent/",
+      "description": "Allows usersto query APIs via natural language, surfacing real-time without technical integration overhead."
+    },
+    {
+      "icon": "bi-flask-fill",
+      "title": "Hypothesis Forge",
+      "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
+      "description": "Automatically generates and statistically tests data hypotheses—returning success flags and p-values to accelerate data-driven experimentation and decision-making."
+    },
+    {
+      "icon": "bi-file-earmark-easel-fill",
+      "title": "AI Industry Use Cases",
+      "url": "https://sanand0.github.io/aislides/",
+      "description": "Auto-generated slideshows for LLM use cases in specific industries. Useful as backgrounds for talks and events"
+    },
+    {
+      "icon": "bi-google",
+      "title": "Google Suggest Trends",
+      "url": "https://tools.s-anand.net/googlesuggest/",
+      "description": "Explore how the top suggestions from Google vary across regions and what is unusual about each country's preferences"
+    },
+    {
+      "icon": "bi-github",
+      "title": "GitHub summary",
+      "url": "https://tools.s-anand.net/githubsummary/",
+      "description": "Get an in-depth understanding of a developer's activity over any time period. Learn about them and their work"
+    },
+    {
+      "icon": "bi-chat-left-dots",
+      "title": "DataChat",
+      "url": "https://prudhvi1709.github.io/datachat-llmf/",
+      "description": ""
+    },
+    {
+      "icon": "bi-stoplights",
+      "title": "Singapore Traffic Dashboard",
+      "url": "https://prudhvi1709.github.io/sgtraffic/",
+      "description": "Delivers real­time traffic volume, congestion analytics, and anomaly detection across camera feeds to optimize urban mobility and infrastructure planning."
+    },
+    {
+      "icon": "bi-bell",
+      "title": "Hospital Video Analytics",
+      "url": "https://prudhvi1709.github.io/videoalert/",
+      "description": "Employs AI-powered computer vision for real-time anomaly detection in video feeds, enhancing patient safety and operational alerts in healthcare environments."
+    },
+    {
+      "icon": "bi-capsule",
+      "title": "AEvolution",
+      "url": "https://krishna-gramener.github.io/adverse-events/",
+      "description": "A web-based tool for analyzing medical documents to identify adverse events, related medications, and relevant research articles."
     },
     {
       "icon": "bi-file-text",
@@ -65,36 +137,6 @@
       "title": "Ratings Critical Data",
       "url": "https://krishna-gramener.github.io/ratings-critical-data/",
       "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments."
-    },
-    {
-      "icon": "bi-plug",
-      "title": "API Agent",
-      "url": "https://sanand0.github.io/apiagent/",
-      "description": "Allows usersto query APIs via natural language, surfacing real-time without technical integration overhead."
-    },
-    {
-      "icon": "bi-chat-left-dots",
-      "title": "DataChat",
-      "url": "https://prudhvi1709.github.io/datachat-llmf/",
-      "description": ""
-    },
-    {
-      "icon": "bi-flask-fill",
-      "title": "Hypothesis Forge",
-      "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
-      "description": "Automatically generates and statistically tests data hypotheses—returning success flags and p-values to accelerate data-driven experimentation and decision-making."
-    },
-    {
-      "icon": "bi-stoplights",
-      "title": "Singapore Traffic Dashboard",
-      "url": "https://prudhvi1709.github.io/sgtraffic/",
-      "description": "Delivers real­time traffic volume, congestion analytics, and anomaly detection across camera feeds to optimize urban mobility and infrastructure planning."
-    },
-    {
-      "icon": "bi-bell",
-      "title": "Hospital Video Analytics",
-      "url": "https://prudhvi1709.github.io/videoalert/",
-      "description": "Employs AI-powered computer vision for real-time anomaly detection in video feeds, enhancing patient safety and operational alerts in healthcare environments."
     }
 ,
     {
