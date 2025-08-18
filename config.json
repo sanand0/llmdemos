@@ -1,6 +1,24 @@
 {
   "demos": [
     {
+      "icon": "bi-box",
+      "title": "3D Objects",
+      "url": "https://nitin399-maker.github.io/3dobjectgen/",
+      "description": "Uses LLMs to generate and edit interactive 3D objects in real-time with Three.js code."
+    },
+    {
+      "icon": "bi-database-fill-gear",
+      "title": "SchemaForge",
+      "url": "https://prudhvi1709.github.io/schemaforge/",
+      "description": "Uploads data to auto-generate schemas, tag PII, create ER diagrams, and build full data engineering pipelines with LLMs."
+    },
+    {
+      "icon": "bi-shield-lock",
+      "title": "CyberDetect",
+      "url": "https://yadav-aayansh.github.io/cyberdetect/",
+      "description": "Analyzes log files and generates detection code for vulnerabilities like SQL injection, path traversal, and bot traffic."
+    },
+    {
       "icon": "bi-bar-chart-steps",
       "title": "Prompt Evals",
       "url": "https://promptevals.straivedemo.com/",
