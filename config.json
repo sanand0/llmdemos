@@ -1,6 +1,24 @@
 {
   "demos": [
     {
+      "icon": "bi-badge-cc",
+      "title": "SubtitleGen",
+      "url": "https://prudhvi1709.github.io/subtitlegen/",
+      "description": "A browser-based application that generates accurate video subtitles using AI transcription."
+    },
+    {
+      "icon": "bi-stars",
+      "title": "DataGen",
+      "url": "https://nitin399-maker.github.io/datagen/",
+      "description": "Generate realistic synthetic data using LLMs. Use it to test models and apps, and anonymize demos."
+    },
+    {
+      "icon": "bi-layers-fill",
+      "title": "AI Design Studio",
+      "url": "https://nitin399-maker.github.io/aistudio/",
+      "description": "Uses LLMs to improve and convert images to design 3D objects."
+    },
+    {
       "icon": "bi-box",
       "title": "3D Objects",
       "url": "https://nitin399-maker.github.io/3dobjectgen/",
