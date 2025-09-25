@@ -2,6 +2,24 @@
   "demos": [
     {
       "icon": "bi-badge-cc",
+      "title": "Policy as Code",
+      "url": "https://sanand0.github.io/policyascode/",
+      "description": "Extract and consolidate atomic rules from policy documents. Apply them, making policies actionable."
+    },
+    {
+      "icon": "bi-file-bar-graph",
+      "title": "Data Scrollytelling",
+      "url": "https://yadav-aayansh.github.io/scrollytelling/",
+      "description": "Uploads data to automatically generate insights and narrate them as visual scrolly-telling narratives."
+    },
+    {
+      "icon": "bi-badge-3d",
+      "title": "3D Image Generator",
+      "url": "https://github.com/Nitin399-maker/3dimagegen",
+      "description": "Generate 3D visual models from sketches. Useful for engineering, product design, science and education."
+    },
+    {
+      "icon": "bi-badge-cc",
       "title": "SubtitleGen",
       "url": "https://prudhvi1709.github.io/subtitlegen/",
       "description": "A browser-based application that generates accurate video subtitles using AI transcription."
@@ -15,7 +33,7 @@
     {
       "icon": "bi-layers-fill",
       "title": "AI Design Studio",
-      "url": "https://nitin399-maker.github.io/aistudio/",
+      "url": "https://aistudio.straivedemo.com/",
       "description": "Uses LLMs to improve and convert images to design 3D objects."
     },
     {
