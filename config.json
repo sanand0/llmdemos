@@ -1,6 +1,18 @@
 {
   "demos": [
     {
+      "icon": "bi-activity",
+      "title": "Animated Data Insights",
+      "url": "https://pavankumart18.github.io/animated-data-insights/",
+      "description": "Interactive treemap visualization showing the most frequent topics and how people are using Claude AI."
+    },
+    {
+      "icon": "bi-bar-chart-fill",
+      "title": "AI Impact on U.S. Jobs",
+      "url": "https://sanand0.github.io/datastories/gdpval/",
+      "description": "Analyzes AI task augmentation potential across U.S. sectors and occupations based on OpenAI's GDPVal research, showing which jobs have the highest potential for AI assistance."
+    },
+    {
       "icon": "bi-badge-cc",
       "title": "Policy as Code",
       "url": "https://sanand0.github.io/policyascode/",
