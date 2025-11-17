@@ -1,6 +1,12 @@
 {
   "demos": [
     {
+      "icon": "bi-file-earmark-easel",
+      "title": "Tata Trust RFP Response",
+      "url": "https://sanand0.github.io/tata-trust-data-visualization-rfp-2025/",
+      "description": "Complete RFP response with AI-powered data visualization platform proposal, featuring 16 interactive visualizations, scrollytelling data story, and demonstration of human-AI collaboration created in 7 days."
+    },
+    {
       "icon": "bi-activity",
       "title": "Animated Data Insights",
       "url": "https://pavankumart18.github.io/animated-data-insights/",
