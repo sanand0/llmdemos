@@ -1,6 +1,24 @@
 {
   "demos": [
     {
+      "icon": "bi-shuffle",
+      "title": "Noisy Entity Matcher",
+      "url": "https://ritesh17rb.github.io/noisy-fuzzy-match/",
+      "description": "Aligns two messy lists using fuzzy string scores, manual locks, and Hungarian optimization to surface best matches and unmatched entries."
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Streamline Agents",
+      "url": "https://pavankumart18.github.io/streamline-agents/",
+      "description": "Streams an architect’s multi-agent plan, lets you pick datasets or upload files, then runs specialist agents sequentially with live markdown output and flow tracking."
+    },
+    {
+      "icon": "bi-joystick",
+      "title": "Case Study Simulator",
+      "url": "https://ritesh17rb.github.io/Strategy-Game/",
+      "description": "LLM-powered management case-study game that streams advisor responses as you make trade-off decisions each turn, with optional Supabase sign-in to save and resume sessions."
+    },
+    {
       "icon": "bi-file-earmark-easel",
       "title": "Tata Trust RFP Response",
       "url": "https://sanand0.github.io/tata-trust-data-visualization-rfp-2025/",
@@ -215,8 +233,7 @@
       "title": "Ratings Critical Data",
       "url": "https://krishna-gramener.github.io/ratings-critical-data/",
       "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments."
-    }
-,
+    },
     {
       "icon": "bi-cpu",
       "title": "AI Pipe",
