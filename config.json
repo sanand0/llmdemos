@@ -13,6 +13,12 @@
       "description": "Streams an architect’s multi-agent plan, lets you pick datasets or upload files, then runs specialist agents sequentially with live markdown output and flow tracking."
     },
     {
+      "icon": "bi-diagram-2",
+      "title": "ReasonForge",
+      "url": "https://prudhvi1709.github.io/reasonforge/",
+      "description": "Generates multiple plans for coding and system-design prompts using configurable planner and judge models, then unlocks a refinement chat to iterate on the chosen approach."
+    },
+    {
       "icon": "bi-joystick",
       "title": "Case Study Simulator",
       "url": "https://ritesh17rb.github.io/Strategy-Game/",
