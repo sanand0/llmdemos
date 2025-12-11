@@ -1,6 +1,18 @@
 {
   "demos": [
     {
+      "icon": "bi-file-earmark-text",
+      "title": "Parallel Editing Experiment",
+      "url": "https://ritesh17rb.github.io/parallel-editing-experiment/",
+      "description": "Multi-agent collaborative document editor where specialized AI agents simultaneously review and refine legal contracts, research papers, and business proposals with live activity tracking."
+    },
+    {
+      "icon": "bi-robot",
+      "title": "Agent Builder",
+      "url": "https://pavankumart18.github.io/agent-builder/",
+      "description": "Build architect-planned, specialist-executed agent chains with live streaming output. Configure enterprise workflows, stream architect plans, toggle datasets, and watch validation and execution agents work in sequence."
+    },
+    {
       "icon": "bi-shuffle",
       "title": "Noisy Entity Matcher",
       "url": "https://ritesh17rb.github.io/noisy-fuzzy-match/",
