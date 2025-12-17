@@ -7,6 +7,12 @@
       "description": "Multi-agent collaborative document editor where specialized AI agents simultaneously review and refine legal contracts, research papers, and business proposals with live activity tracking."
     },
     {
+      "icon": "bi-file-earmark-text",
+      "title": "Parallel Editing Demo (AI + Human)",
+      "url": "https://pavankumart18.github.io/parallel-editing/",
+      "description": "Alternate version of the parallel editing experiment with a Quill-based editor, live presence indicators, and AI-assisted drafting and revision workflows."
+    },
+    {
       "icon": "bi-robot",
       "title": "Agent Builder",
       "url": "https://pavankumart18.github.io/agent-builder/",
@@ -31,9 +37,15 @@
       "description": "Generates multiple plans for coding and system-design prompts using configurable planner and judge models, then unlocks a refinement chat to iterate on the chosen approach."
     },
     {
+      "icon": "bi-dice-5",
+      "title": "Strategy Board Game",
+      "url": "https://ritesh17rb.github.io/board-game/",
+      "description": "Scenario-based strategy board game with turn-based decisions and an interactive narrative UI."
+    },
+    {
       "icon": "bi-joystick",
       "title": "Case Study Simulator",
-      "url": "https://ritesh17rb.github.io/Strategy-Game/",
+      "url": "https://ritesh17rb.github.com/strategy-game/",
       "description": "LLM-powered management case-study game that streams advisor responses as you make trade-off decisions each turn, with optional Supabase sign-in to save and resume sessions."
     },
     {
@@ -46,7 +58,7 @@
       "icon": "bi-activity",
       "title": "Animated Data Insights",
       "url": "https://pavankumart18.github.io/animated-data-insights/",
-      "description": "Interactive treemap visualization showing the most frequent topics and how people are using Claude AI."
+      "description": "Interactive treemap dashboard based on Anthropic’s Economic Index, showing the most frequent topics and how people are using Claude across states and countries."
     },
     {
       "icon": "bi-bar-chart-fill",
@@ -65,6 +77,12 @@
       "title": "Data Scrollytelling",
       "url": "https://yadav-aayansh.github.io/scrollytelling/",
       "description": "Uploads data to automatically generate insights and narrate them as visual scrolly-telling narratives."
+    },
+    {
+      "icon": "bi-shop",
+      "title": "Mall Layout Analytics",
+      "url": "https://nitin399-maker.github.io/mall-layout/",
+      "description": "Interactive U-shaped mall layout visualization with hoverable shops, walkway paths, and simple analytics-style UI components."
     },
     {
       "icon": "bi-badge-3d",
