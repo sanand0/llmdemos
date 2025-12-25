@@ -2,9 +2,13 @@
 
 A collection of LLM demos.
 
-This list aggregates interactive projects from [prudhvi1709](https://github.com/prudhvi1709),
-[krishna-gramener](https://github.com/krishna-gramener) and
-[nitin399-maker](https://github.com/nitin399-maker) that were updated after **June 2025**.
+This list aggregates interactive projects updated after **June 2025** from:
+
+- [prudhvi1709](https://github.com/prudhvi1709)
+- [krishna-gramener](https://github.com/krishna-gramener)
+- [nitin399-maker](https://github.com/nitin399-maker)
+- [pavankumart18](https://github.com/pavankumart18)
+- [ritesh17rb](https://github.com/ritesh17rb)
 
 ## Setup
 

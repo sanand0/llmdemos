@@ -1,6 +1,30 @@
 {
   "demos": [
     {
+      "icon": "bi-vector-pen",
+      "title": "SVG Animator",
+      "url": "https://nitin399-maker.github.io/svg_doodle/",
+      "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects."
+    },
+    {
+      "icon": "bi-broadcast",
+      "title": "AdStream Contextual Engine",
+      "url": "https://ritesh17rb.github.io/ad-engine/",
+      "description": "AI-driven contextual advertising insertion with real-time video analysis, hyper-personalization based on demographics and search history, and dynamic creative generation for custom ad copy and visuals."
+    },
+    {
+      "icon": "bi-egg-fried",
+      "title": "Food Manager",
+      "url": "https://ritesh17rb.github.io/food-manager/",
+      "description": "McDonald's food management system for tracking inventory, orders, and operations."
+    },
+    {
+      "icon": "bi-music-note-beamed",
+      "title": "Can AI Hear What We Feel?",
+      "url": "https://sanand0.github.io/datastories/llm-music/",
+      "description": "Data-driven investigation into whether AI can understand music emotion by comparing Google Gemini's predictions against 40 songs rated by humans across 9 emotions using the GEMS-9 framework."
+    },
+    {
       "icon": "bi-file-earmark-text",
       "title": "Parallel Editing Experiment",
       "url": "https://ritesh17rb.github.io/parallel-editing-experiment/",
