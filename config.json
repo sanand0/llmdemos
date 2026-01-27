@@ -1,9 +1,63 @@
 {
   "demos": [
     {
+      "icon": "bi-book-half",
+      "title": "Textbook Fact-Checker",
+      "url": "https://pythonicvarun.github.io/textbook-analysis/",
+      "description": "AI-powered fact-checking analysis of NCERT Class 12 history textbooks, verifying 45+ claims and identifying accuracy issues using automated verification against academic databases and archaeological records."
+    },
+    {
+      "icon": "bi-currency-dollar",
+      "title": "Price Elasticity Modeling",
+      "url": "https://prudhvi1709.github.io/pricing-studio/",
+      "description": "Understand how price changes impact subscriber behavior, revenue, and growth for streaming services. Make data-driven pricing decisions with confidence through elasticity analysis."
+    },
+    {
+      "icon": "bi-graph-up",
+      "title": "Market Prediction Analyzer",
+      "url": "https://ritesh17rb.github.io/market-prediction/",
+      "description": "Analyze prediction markets using LLMs to turn market signals into decision-ready intelligence. Track trending markets across AI, politics, economics, and sports with semantic clustering and consensus detection."
+    },
+    {
+      "icon": "bi-globe",
+      "title": "Urban Analysis Platform (OlmoEarth)",
+      "url": "https://ritesh17rb.github.io/olmo-earth/",
+      "description": "Leverages satellite imagery and OlmoEarth foundation model to track urban evolution, vegetation, and density changes across cities worldwide. Analyzes growth patterns from 2019 to 2024 using AI-powered geospatial analysis."
+    },
+    {
+      "icon": "bi-image",
+      "title": "Multi-Model Image Reproduction",
+      "url": "https://nitin399-maker.github.io/imagediffer/",
+      "description": "Evaluate how well different AI models (Gemini, GPT-4, Claude) reproduce images using advanced perceptual quality metrics like SSIM, SSIMULACRA2, Butteraugli, FLIP, and LPIPS with color-coded error maps."
+    },
+    {
       "icon": "bi-vector-pen",
       "title": "SVG Animator",
-      "url": "https://nitin399-maker.github.io/svg_doodle/",
+      "url": "https://nitin399-maker.github.io/svg-doodle/",
+      "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects."
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Gemma Token Tree Analysis",
+      "url": "https://pythonicvarun.github.io/gemma-token-analysis/",
+      "description": "Visualize how language models predict the next token by exploring the 'multiverse' of paths the Gemma model considers. Interactive token trees reveal how probability shapes AI creativity and decision-making."
+    },
+    {
+      "icon": "bi-box-arrow-up-right",
+      "title": "Linux Foundation Leaderboards",
+      "url": "https://pythonicvarun.github.io/LinuxFoundation-Leaderboards-Analysis/",
+      "description": "Multiple visual storytelling perspectives on open source community data. Explore contributor ecosystems through narrative journalism, interactive scrollytelling, artistic D3.js visualizations, and analytical insights."
+    },
+    {
+      "icon": "bi-broadcast",
+      "title": "AdStream Contextual Engine",
+      "url": "https://ritesh17rb.github.io/adstream-engine/",
+      "description": "AI-driven contextual advertising insertion with real-time video analysis, hyper-personalization based on demographics and search history, and dynamic creative generation for custom ad copy and visuals."
+    },
+    {
+      "icon": "bi-vector-pen",
+      "title": "SVG Animator",
+      "url": "https://nitin399-maker.github.io/svg-doodle/",
       "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects."
     },
     {
