@@ -39,6 +39,10 @@
             <div class="card-body text-center p-4">
               <h2 class="h4 mb-3"><i class="bi bi-stars me-2 text-primary"></i>Explore AI-Powered Solutions</h2>
               <p class="lead mb-0">This showcase features a collection of interactive LLM (Large Language Model) demonstrations. Each demo highlights innovative applications of AI technology to solve real-world problems and enhance decision-making processes.</p>
+              <div class="small text-muted mt-3">
+                <span class="badge text-bg-warning"><i class="bi bi-exclamation-triangle me-1"></i>Needs review</span>
+                <span class="ms-2">marks demos awaiting human verification.</span>
+              </div>
             </div>
           </div>
         </div>
@@ -47,15 +51,36 @@
       <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
         {{#demos}}
         <div class="col">
-          <div class="card h-100 shadow-sm hover-shadow transition-all">
+          <div class="card h-100 shadow-sm hover-shadow transition-all {{#unreviewed}}border border-warning-subtle{{/unreviewed}}">
             <div class="card-body">
               <div class="d-flex align-items-center mb-3">
                 <div class="bg-primary bg-opacity-10 p-3 rounded-circle me-3">
                   <i class="bi {{icon}} fs-3 text-primary"></i>
                 </div>
-                <h3 class="card-title h5 mb-0">{{title}}</h3>
+                <div class="d-flex align-items-center justify-content-between gap-2 flex-grow-1">
+                  <h3 class="card-title h5 mb-0">{{title}}</h3>
+                  {{#unreviewed}}
+                  <span class="badge text-bg-warning flex-shrink-0"><i class="bi bi-exclamation-triangle me-1"></i>Needs review</span>
+                  {{/unreviewed}}
+                </div>
               </div>
               <p class="card-text">{{description}}</p>
+              <div class="d-flex flex-wrap gap-2 mt-3">
+                {{#created}}
+                <span class="badge border text-body-secondary"><i class="bi bi-calendar-event me-1"></i>{{created}}</span>
+                {{/created}}
+                {{^created}}
+                <span class="badge border text-body-secondary"><i class="bi bi-calendar-event me-1"></i>Date unknown</span>
+                {{/created}}
+                {{#repo}}
+                <a href="{{repo}}" target="_blank" rel="noopener" class="badge border text-body-secondary text-decoration-none">
+                  <i class="bi bi-github me-1"></i>License: {{#license}}{{license}}{{/license}}{{^license}}N/A{{/license}}
+                </a>
+                {{/repo}}
+                {{^repo}}
+                <span class="badge border text-body-secondary"><i class="bi bi-github me-1"></i>License: N/A</span>
+                {{/repo}}
+              </div>
             </div>
             <div class="card-footer bg-transparent border-top-0">
               <a href="{{url}}" target="_blank" class="btn btn-outline-primary d-flex align-items-center justify-content-center">

@@ -1,442 +1,1127 @@
 {
   "demos": [
     {
-      "icon": "bi-book-half",
-      "title": "Textbook Fact-Checker",
-      "url": "https://pythonicvarun.github.io/textbook-analysis/",
-      "description": "AI-powered fact-checking analysis of NCERT Class 12 history textbooks, verifying 45+ claims and identifying accuracy issues using automated verification against academic databases and archaeological records."
+      "icon": "bi-diagram-3-fill",
+      "title": "Loan Ops Digital Twin",
+      "url": "https://nitin399-maker.github.io/loanprocessdt/",
+      "description": "Shows where loan approvals are getting stuck so operations teams can remove bottlenecks before deals miss deadlines.",
+      "reviewed": false,
+      "created": "2026-03-04",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/nitin399-maker/loanprocessdt/"
+    },
+    {
+      "icon": "bi-megaphone",
+      "title": "WBD Converged Ad Campaign Engine",
+      "url": "https://pavankumart18.github.io/ad-campaign-engine/",
+      "description": "Helps marketing teams plan and launch cross-channel campaigns from one workflow, reducing handoffs and missed compliance steps.",
+      "reviewed": false,
+      "created": "2026-03-04",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/ad-campaign-engine/"
+    },
+    {
+      "icon": "bi-activity",
+      "title": "Aegis Clinical Data Management",
+      "url": "https://pavankumart18.github.io/clinical-data-review/",
+      "description": "Helps trial teams catch risky or inconsistent clinical records early and route only tricky cases to human reviewers, saving review time.",
+      "reviewed": false,
+      "created": "2026-03-02",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/clinical-data-review/"
+    },
+    {
+      "icon": "bi-bar-chart",
+      "title": "Merlin KPI Compass",
+      "url": "https://pavankumart18.github.io/merlin-kpi-compass/",
+      "description": "Gives leaders one view of KPI health across teams so they can spot problems early and prioritize fixes.",
+      "reviewed": false,
+      "created": "2026-03-02",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/merlin-kpi-compass/"
+    },
+    {
+      "icon": "bi-activity",
+      "title": "Data Pipe X-Ray",
+      "url": "https://ritesh17rb.github.io/pipeline-xray/",
+      "description": "Turns a messy API spec into test cases so QA teams can catch data-pipeline failures earlier and cut manual testing effort.",
+      "created": "2026-03-01",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/pipeline-xray/"
+    },
+    {
+      "icon": "bi-database-gear",
+      "title": "SQL Migration Narrative Demo",
+      "url": "https://sanand0.github.io/datastories/sql-migration/",
+      "description": "An interactive walkthrough of migrating 100 SQL Server scripts to MySQL with LLM-assisted conversion, verification, and business-impact simulation.",
+      "created": "2026-02-27",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-file-code",
+      "title": "Automation Replay Dashboard",
+      "url": "https://ritesh17rb.github.io/video-automation/",
+      "description": "Converts screen recordings into runnable Playwright tests, helping teams reproduce bugs and automate regression checks faster.",
+      "created": "2026-02-24",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/video-automation/"
+    },
+    {
+      "icon": "bi-mortarboard",
+      "title": "SchoolAI Demo Portal",
+      "url": "https://sanand0.github.io/schoolai/",
+      "description": "Executive portal for interactive AI demos in enrollment triage, credit checking, and financial aid support for schools and universities.",
+      "created": "2026-02-24",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/schoolai/"
+    },
+    {
+      "icon": "bi-patch-check",
+      "title": "Super-Fast AI Credit Checking",
+      "url": "https://sanand0.github.io/schoolai/credit-checking/",
+      "description": "Evaluates mixed student evidence such as transcripts, military records, and certifications to quickly estimate transfer credits with AI-guided extraction.",
+      "created": "2026-02-24",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/schoolai/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Triage Agent",
+      "url": "https://sanand0.github.io/schoolai/triage/",
+      "description": "Enrollment operations dashboard that classifies inbound inquiries, drafts responses, routes escalations, and tracks response-time and coverage metrics.",
+      "created": "2026-02-24",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/schoolai/"
+    },
+    {
+      "icon": "bi-badge-3d",
+      "title": "3D Floor Plan Benchmark Dashboard",
+      "url": "https://pavankumart18.github.io/3d-benchmark-analysis/",
+      "description": "Lets architects compare generated 3D plans with original 2D layouts, making it easier to pick models that preserve room accuracy.",
+      "created": "2026-02-23",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/3d-benchmark-analysis/"
     },
     {
       "icon": "bi-currency-dollar",
-      "title": "Price Elasticity Modeling",
-      "url": "https://prudhvi1709.github.io/pricing-studio/",
-      "description": "Understand how price changes impact subscriber behavior, revenue, and growth for streaming services. Make data-driven pricing decisions with confidence through elasticity analysis."
+      "title": "Autonomous Deal Structuring Agent",
+      "url": "https://pavankumart18.github.io/deal-engine/",
+      "description": "Helps sales teams evaluate deal options faster by surfacing pricing and compliance risks and recommending safer, higher-margin scenarios.",
+      "created": "2026-02-23",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/deal-engine/"
     },
     {
-      "icon": "bi-graph-up",
-      "title": "Market Prediction Analyzer",
-      "url": "https://ritesh17rb.github.io/market-prediction/",
-      "description": "Analyze prediction markets using LLMs to turn market signals into decision-ready intelligence. Track trending markets across AI, politics, economics, and sports with semantic clustering and consensus detection."
+      "icon": "bi-signpost-2-fill",
+      "title": "PipelineAtlas",
+      "url": "https://ritesh17rb.github.io/pipeline-atlas/",
+      "description": "Converts plain-English workflow descriptions into interactive metro-style pipeline maps with tool-level detail views.",
+      "reviewed": false,
+      "created": "2026-02-23",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/pipeline-atlas/"
+    },
+    {
+      "icon": "bi-image",
+      "title": "LLM Filter Gallery",
+      "url": "https://ritesh17rb.github.io/llm-filter-gallery/",
+      "description": "Interactive gallery of distinct LLM-generated visual filters applied across chart, comic, and photo reference images.",
+      "reviewed": false,
+      "created": "2026-02-19",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/llm-filter-gallery/"
+    },
+    {
+      "icon": "bi-badge-cc",
+      "title": "ComplianceIQ",
+      "url": "https://pavankumart18.github.io/school-compliance-checker/",
+      "description": "Florida private school compliance checker that maps school documents to state and federal regulations and summarizes checklist-level compliance.",
+      "created": "2026-02-18",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/school-compliance-checker/"
+    },
+    {
+      "icon": "bi-chat-square-text",
+      "title": "Parent Feedback Sentiment Dashboard",
+      "url": "https://pavankumart18.github.io/parent-feedback-analysis/",
+      "description": "Summarizes parent feedback into clear pain points and school-level heatmaps so leadership can prioritize the highest-impact improvements.",
+      "created": "2026-02-10",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/parent-feedback-analysis/"
+    },
+    {
+      "icon": "bi-file-earmark-text",
+      "title": "NFL Medical Forensic Data Story",
+      "url": "https://nitin399-maker.github.io/Datastory/",
+      "description": "Scrollytelling forensic report on NFL draft medical risk patterns, highlighting hidden pathologies and compensation signals across prospects.",
+      "reviewed": false,
+      "created": "2026-02-09",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/nitin399-maker/Datastory/"
+    },
+    {
+      "icon": "bi-globe",
+      "title": "Geographic Story Builder",
+      "url": "https://pavankumart18.github.io/visual-biography/",
+      "description": "Generates interactive map-based biographies from a person or storyline prompt, with shareable story views and JSON exports.",
+      "created": "2026-02-09",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/visual-biography/"
+    },
+    {
+      "icon": "bi-journal-richtext",
+      "title": "Researcher of the Future",
+      "url": "https://sanand0.github.io/datastories/researcher-of-the-future/",
+      "description": "How 3,200+ researchers across 113 countries view AI, integrity, collaboration, mobility, and impact — from Elsevier's Confidence in Research report.",
+      "created": "2026-02-09",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-shield-exclamation",
+      "title": "Retractions Are Happening in Waves",
+      "url": "https://sanand0.github.io/datastories/retraction-watch/",
+      "description": "We analyzed 68,658 Retraction Watch records to find the biggest patterns, surprising signals, and practical actions. An early-warning publisher dashboard for where trust, reputation, and legal risk can spike.",
+      "created": "2026-02-09",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-broadcast",
+      "title": "Call Center Copilot",
+      "url": "https://nitin399-maker.github.io/Interpreter/",
+      "description": "Real-time dual-audio transcription assistant for support calls with live AI Q&A, summaries, and response drafting.",
+      "reviewed": false,
+      "created": "2026-02-08",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/nitin399-maker/Interpreter/"
+    },
+    {
+      "icon": "bi-image",
+      "title": "Daily News Comics",
+      "url": "https://nitin399-maker.github.io/comicgen/",
+      "description": "Editorial-comic generator and gallery that turns current headlines into satirical comic cards with filtering by date and topic.",
+      "created": "2026-02-03",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/comicgen/"
+    },
+    {
+      "icon": "bi-database-fill-gear",
+      "title": "SQL Usage Analysis",
+      "url": "https://pavankumart18.github.io/sql-analysis/",
+      "description": "Shows which SQL queries consume the most effort and runtime, helping data teams optimize critical reports and reduce repetitive ad-hoc work.",
+      "created": "2026-02-02",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/sql-analysis/"
+    },
+    {
+      "icon": "bi-bar-chart-fill",
+      "title": "The Secret Life of Nutella",
+      "url": "https://nitin399-maker.github.io/nutella/",
+      "description": "Scrollytelling data story comparing Nutella product formulations across countries to reveal regional differences in sugar content and market adaptation.",
+      "created": "2026-01-29",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/nutella/"
+    },
+    {
+      "icon": "bi-palette",
+      "title": "Embroidered Charts Pipeline",
+      "url": "https://ritesh17rb.github.io/embroidered-chart/",
+      "description": "Transforms standard charts into handcrafted visual styles such as embroidery, pixel art, blueprint, and oil-paint aesthetics.",
+      "reviewed": false,
+      "created": "2026-01-28",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/embroidered-chart/"
+    },
+    {
+      "icon": "bi-diagram-2",
+      "title": "Topicmodel Examples",
+      "url": "https://ritesh17rb.github.io/topicmodel/",
+      "description": "Compares two text-grouping methods on sample datasets so analysts can choose the approach that clusters their documents better.",
+      "created": "2026-01-28",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/topicmodel/"
+    },
+    {
+      "icon": "bi-chat-square-text",
+      "title": "Dilbert Vision Model Evaluation",
+      "url": "https://pavankumart18.github.io/comic-transcriptions/",
+      "description": "Compares vision models on comic transcription quality so teams can pick the one that best preserves dialogue, speakers, and panel structure.",
+      "created": "2026-01-27",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/comic-transcriptions/"
+    },
+    {
+      "icon": "bi-file-code",
+      "title": "SVG Generation Benchmark",
+      "url": "https://pavankumart18.github.io/svg-generation-analysis/",
+      "description": "Benchmarks text-to-SVG models so designers can choose generators that produce cleaner, more usable artwork with less manual fixing.",
+      "created": "2026-01-27",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/svg-generation-analysis/"
+    },
+    {
+      "icon": "bi-file-code",
+      "title": "SVG Generation Benchmark",
+      "url": "https://pavankumart18.github.io/svg-generation-analysis/",
+      "description": "Benchmarks text-to-SVG models so designers can choose generators that produce cleaner, more usable artwork with less manual fixing.",
+      "created": "2026-01-27",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/svg-generation-analysis/"
+    },
+    {
+      "icon": "bi-globe",
+      "title": "OlmoEarth Data Stories",
+      "url": "https://ritesh17rb.github.io/data-story-olmo/",
+      "description": "Geospatial narrative explorer that presents curated urban-change stories with map-driven evidence and regional context.",
+      "reviewed": false,
+      "created": "2026-01-23",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/data-story-olmo/"
     },
     {
       "icon": "bi-globe",
       "title": "Urban Analysis Platform (OlmoEarth)",
       "url": "https://ritesh17rb.github.io/olmo-earth/",
-      "description": "Leverages satellite imagery and OlmoEarth foundation model to track urban evolution, vegetation, and density changes across cities worldwide. Analyzes growth patterns from 2019 to 2024 using AI-powered geospatial analysis."
+      "description": "Tracks urban change from satellite imagery so planners can see where growth, density, and green cover are shifting over time.",
+      "created": "2026-01-15",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/olmo-earth/"
+    },
+    {
+      "icon": "bi-book-half",
+      "title": "Textbook Fact-Checker",
+      "url": "https://pythonicvarun.github.io/textbook-analysis/",
+      "description": "AI-powered fact-checking analysis of NCERT Class 12 history textbooks, verifying 45+ claims and identifying accuracy issues using automated verification against academic databases and archaeological records.",
+      "created": "2026-01-14",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pythonicvarun/textbook-analysis/"
+    },
+    {
+      "icon": "bi-graph-up",
+      "title": "Market Prediction Analyzer",
+      "url": "https://ritesh17rb.github.io/market-prediction/",
+      "description": "Turns noisy prediction-market activity into digestible trends, helping teams quickly see where consensus is strengthening or drifting.",
+      "created": "2026-01-14",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/market-prediction/"
+    },
+    {
+      "icon": "bi-currency-dollar",
+      "title": "Price Elasticity Modeling",
+      "url": "https://prudhvi1709.github.io/pricing-studio/",
+      "description": "Understand how price changes impact subscriber behavior, revenue, and growth for streaming services. Make data-driven pricing decisions with confidence through elasticity analysis.",
+      "created": "2026-01-13",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/pricing-studio/"
+    },
+    {
+      "icon": "bi-flask",
+      "title": "Can AI Replace Human Paper Reviewers?",
+      "url": "https://sanand0.github.io/datastories/ai-agents-for-science/",
+      "description": "An investigation into what happens when artificial intelligence reviews scientific papers — and what goes hilariously (and seriously) wrong.",
+      "created": "2026-01-13",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-bug",
+      "title": "The TypeError Detective",
+      "url": "https://pythonicvarun.github.io/py-libraries-analysis/",
+      "description": "Journey through Python's None-handling underworld by filing identical type errors in SQLAlchemy, Apache Arrow, and scikit-learn to reveal patterns in open-source maintenance and software evolution.",
+      "created": "2026-01-08",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pythonicvarun/py-libraries-analysis/"
+    },
+    {
+      "icon": "bi-chat-square-text",
+      "title": "Verbal Mastery",
+      "url": "https://ritesh17rb.github.io/ai-interview/",
+      "description": "Scenario-based communication simulator that uses AI to pressure-test negotiation, crisis response, and persuasive speaking.",
+      "reviewed": false,
+      "created": "2026-01-07",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/ai-interview/"
     },
     {
       "icon": "bi-image",
       "title": "Multi-Model Image Reproduction",
       "url": "https://nitin399-maker.github.io/imagediffer/",
-      "description": "Evaluate how well different AI models (Gemini, GPT-4, Claude) reproduce images using advanced perceptual quality metrics like SSIM, SSIMULACRA2, Butteraugli, FLIP, and LPIPS with color-coded error maps."
+      "description": "Compares image outputs from different AI models with visual error maps, helping teams choose the model closest to a target reference.",
+      "created": "2026-01-06",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/imagediffer/"
     },
     {
       "icon": "bi-vector-pen",
       "title": "SVG Animator",
       "url": "https://nitin399-maker.github.io/svg-doodle/",
-      "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects."
+      "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects.",
+      "created": "2026-01-05",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/svg-doodle/"
     },
     {
       "icon": "bi-diagram-3",
       "title": "Gemma Token Tree Analysis",
       "url": "https://pythonicvarun.github.io/gemma-token-analysis/",
-      "description": "Visualize how language models predict the next token by exploring the 'multiverse' of paths the Gemma model considers. Interactive token trees reveal how probability shapes AI creativity and decision-making."
+      "description": "Visualize how language models predict the next token by exploring the 'multiverse' of paths the Gemma model considers. Interactive token trees reveal how probability shapes AI creativity and decision-making.",
+      "created": "2026-01-03",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pythonicvarun/gemma-token-analysis/"
     },
     {
       "icon": "bi-box-arrow-up-right",
       "title": "Linux Foundation Leaderboards",
       "url": "https://pythonicvarun.github.io/LinuxFoundation-Leaderboards-Analysis/",
-      "description": "Multiple visual storytelling perspectives on open source community data. Explore contributor ecosystems through narrative journalism, interactive scrollytelling, artistic D3.js visualizations, and analytical insights."
+      "description": "Multiple visual storytelling perspectives on open source community data. Explore contributor ecosystems through narrative journalism, interactive scrollytelling, artistic D3.js visualizations, and analytical insights.",
+      "created": "2026-01-02",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pythonicvarun/LinuxFoundation-Leaderboards-Analysis/"
     },
     {
-      "icon": "bi-broadcast",
-      "title": "AdStream Contextual Engine",
-      "url": "https://ritesh17rb.github.io/adstream-engine/",
-      "description": "AI-driven contextual advertising insertion with real-time video analysis, hyper-personalization based on demographics and search history, and dynamic creative generation for custom ad copy and visuals."
-    },
-    {
-      "icon": "bi-vector-pen",
-      "title": "SVG Animator",
-      "url": "https://nitin399-maker.github.io/svg-doodle/",
-      "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects."
-    },
-    {
-      "icon": "bi-broadcast",
-      "title": "AdStream Contextual Engine",
-      "url": "https://ritesh17rb.github.io/ad-engine/",
-      "description": "AI-driven contextual advertising insertion with real-time video analysis, hyper-personalization based on demographics and search history, and dynamic creative generation for custom ad copy and visuals."
-    },
-    {
-      "icon": "bi-egg-fried",
-      "title": "Food Manager",
-      "url": "https://ritesh17rb.github.io/food-manager/",
-      "description": "McDonald's food management system for tracking inventory, orders, and operations."
+      "icon": "bi-music-note-beamed",
+      "title": "The Ambiguous Song",
+      "url": "https://sanand0.github.io/datastories/emotify/",
+      "description": "How humans label emotions in music—400 tracks across 4 genres rated by multiple annotators, revealing which emotions spark the most disagreement.",
+      "created": "2025-12-25",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
     },
     {
       "icon": "bi-music-note-beamed",
       "title": "Can AI Hear What We Feel?",
       "url": "https://sanand0.github.io/datastories/llm-music/",
-      "description": "Data-driven investigation into whether AI can understand music emotion by comparing Google Gemini's predictions against 40 songs rated by humans across 9 emotions using the GEMS-9 framework."
+      "description": "Data-driven investigation into whether AI can understand music emotion by comparing Google Gemini's predictions against 40 songs rated by humans across 9 emotions using the GEMS-9 framework.",
+      "created": "2025-12-25",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
     },
     {
-      "icon": "bi-file-earmark-text",
-      "title": "Parallel Editing Experiment",
-      "url": "https://ritesh17rb.github.io/parallel-editing-experiment/",
-      "description": "Multi-agent collaborative document editor where specialized AI agents simultaneously review and refine legal contracts, research papers, and business proposals with live activity tracking."
+      "icon": "bi-broadcast",
+      "title": "AdStream Contextual Engine",
+      "url": "https://ritesh17rb.github.io/ad-engine/",
+      "description": "Matches ads to video context in real time, helping teams place more relevant ads and reduce manual editing workload.",
+      "created": "2025-12-19",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/ad-engine/"
     },
     {
-      "icon": "bi-file-earmark-text",
-      "title": "Parallel Editing Demo (AI + Human)",
-      "url": "https://pavankumart18.github.io/parallel-editing/",
-      "description": "Alternate version of the parallel editing experiment with a Quill-based editor, live presence indicators, and AI-assisted drafting and revision workflows."
-    },
-    {
-      "icon": "bi-robot",
-      "title": "Agent Builder",
-      "url": "https://pavankumart18.github.io/agent-builder/",
-      "description": "Build architect-planned, specialist-executed agent chains with live streaming output. Configure enterprise workflows, stream architect plans, toggle datasets, and watch validation and execution agents work in sequence."
-    },
-    {
-      "icon": "bi-shuffle",
-      "title": "Noisy Entity Matcher",
-      "url": "https://ritesh17rb.github.io/noisy-fuzzy-match/",
-      "description": "Aligns two messy lists using fuzzy string scores, manual locks, and Hungarian optimization to surface best matches and unmatched entries."
-    },
-    {
-      "icon": "bi-diagram-3",
-      "title": "Streamline Agents",
-      "url": "https://pavankumart18.github.io/streamline-agents/",
-      "description": "Streams an architect’s multi-agent plan, lets you pick datasets or upload files, then runs specialist agents sequentially with live markdown output and flow tracking."
-    },
-    {
-      "icon": "bi-diagram-2",
-      "title": "ReasonForge",
-      "url": "https://prudhvi1709.github.io/reasonforge/",
-      "description": "Generates multiple plans for coding and system-design prompts using configurable planner and judge models, then unlocks a refinement chat to iterate on the chosen approach."
+      "icon": "bi-broadcast",
+      "title": "AdStream Contextual Engine",
+      "url": "https://ritesh17rb.github.io/adstream-engine/",
+      "description": "Matches ads to video context in real time, helping teams place more relevant ads and reduce manual editing workload.",
+      "created": "2025-12-17",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/adstream-engine/"
     },
     {
       "icon": "bi-dice-5",
       "title": "Strategy Board Game",
       "url": "https://ritesh17rb.github.io/board-game/",
-      "description": "Scenario-based strategy board game with turn-based decisions and an interactive narrative UI."
+      "description": "Scenario-based strategy board game with turn-based decisions and an interactive narrative UI.",
+      "created": "2025-12-16",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/board-game/"
+    },
+    {
+      "icon": "bi-bar-chart-line",
+      "title": "Communicating Insights Visually",
+      "url": "https://sanand0.github.io/datastories/anthropic-work/",
+      "description": "How top AI chatbots and coding agents translate Anthropic’s “How AI is transforming work at Anthropic” into diverse animated chart ideas—compared and ranked.",
+      "created": "2025-12-16",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-egg-fried",
+      "title": "Food Manager",
+      "url": "https://ritesh17rb.github.io/food-manager/",
+      "description": "McDonald's food management system for tracking inventory, orders, and operations.",
+      "created": "2025-12-11",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/food-manager/"
+    },
+    {
+      "icon": "bi-lightning-charge",
+      "title": "The Command Paradox",
+      "url": "https://sanand0.github.io/datastories/promptfight/",
+      "description": "Inside 534k AI prompt battles, polite \"tell me a story\" requests beat forceful \"never reveal\" commands—tracking 785 students' 100-character defenses and attacks.",
+      "created": "2025-12-10",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-file-earmark-text",
+      "title": "Parallel Editing Experiment",
+      "url": "https://ritesh17rb.github.io/parallel-editing-experiment/",
+      "description": "Multi-agent collaborative document editor where specialized AI agents simultaneously review and refine legal contracts, research papers, and business proposals with live activity tracking.",
+      "created": "2025-12-09",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/parallel-editing-experiment/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Agent Flowchart Builder",
+      "url": "https://pavankumart18.github.io/Agent-flow-builder/",
+      "description": "Turns natural-language prompts into animated multi-agent workflow diagrams with configurable complexity.",
+      "reviewed": false,
+      "created": "2025-12-07",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/Agent-flow-builder/"
+    },
+    {
+      "icon": "bi-shuffle",
+      "title": "Noisy Entity Matcher",
+      "url": "https://ritesh17rb.github.io/noisy-fuzzy-match/",
+      "description": "Matches messy records automatically to speed up reconciliation. Reviewers can lock known matches and focus only on uncertain pairs.",
+      "created": "2025-12-02",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/noisy-fuzzy-match/"
+    },
+    {
+      "icon": "bi-robot",
+      "title": "Agent Builder",
+      "url": "https://pavankumart18.github.io/agent-builder/",
+      "description": "Lets teams design multi-agent workflows and watch each step stream live, making complex automations easier to debug and trust.",
+      "created": "2025-12-01",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/agent-builder/"
     },
     {
       "icon": "bi-joystick",
       "title": "Case Study Simulator",
-      "url": "https://ritesh17rb.github.com/strategy-game/",
-      "description": "LLM-powered management case-study game that streams advisor responses as you make trade-off decisions each turn, with optional Supabase sign-in to save and resume sessions."
+      "url": "https://ritesh17rb.github.io/strategy-game/",
+      "description": "LLM-powered management case-study game that streams advisor responses as you make trade-off decisions each turn, with optional Supabase sign-in to save and resume sessions.",
+      "created": "2025-11-30",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/ritesh17rb/strategy-game/"
     },
     {
-      "icon": "bi-file-earmark-easel",
-      "title": "Tata Trust RFP Response",
-      "url": "https://sanand0.github.io/tata-trust-data-visualization-rfp-2025/",
-      "description": "Complete RFP response with AI-powered data visualization platform proposal, featuring 16 interactive visualizations, scrollytelling data story, and demonstration of human-AI collaboration created in 7 days."
+      "icon": "bi-check2-square",
+      "title": "OCR Checker",
+      "url": "https://nitin399-maker.github.io/Textchecker/",
+      "description": "Extracts text from images, flags spelling and decimal-format issues, and generates annotated validation reports.",
+      "reviewed": false,
+      "created": "2025-11-27",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/nitin399-maker/Textchecker/"
     },
     {
-      "icon": "bi-activity",
-      "title": "Animated Data Insights",
-      "url": "https://pavankumart18.github.io/animated-data-insights/",
-      "description": "Interactive treemap dashboard based on Anthropic’s Economic Index, showing the most frequent topics and how people are using Claude across states and countries."
+      "icon": "bi-diagram-2",
+      "title": "ReasonForge",
+      "url": "https://prudhvi1709.github.io/reasonforge/",
+      "description": "Generates multiple solution plans for coding or system-design tasks, then helps you refine the best one before implementation.",
+      "created": "2025-11-27",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/reasonforge/"
     },
     {
-      "icon": "bi-bar-chart-fill",
-      "title": "AI Impact on U.S. Jobs",
-      "url": "https://sanand0.github.io/datastories/gdpval/",
-      "description": "Analyzes AI task augmentation potential across U.S. sectors and occupations based on OpenAI's GDPVal research, showing which jobs have the highest potential for AI assistance."
-    },
-    {
-      "icon": "bi-badge-cc",
-      "title": "Policy as Code",
-      "url": "https://sanand0.github.io/policyascode/",
-      "description": "Extract and consolidate atomic rules from policy documents. Apply them, making policies actionable."
-    },
-    {
-      "icon": "bi-file-bar-graph",
-      "title": "Data Scrollytelling",
-      "url": "https://yadav-aayansh.github.io/scrollytelling/",
-      "description": "Uploads data to automatically generate insights and narrate them as visual scrolly-telling narratives."
+      "icon": "bi-journal-x",
+      "title": "The Publisher Who Chose to Shrink",
+      "url": "https://sanand0.github.io/datastories/frontiers-2024/",
+      "description": "How Frontiers deliberately cut output by 36% to fight AI-generated fraud and won with quality. A counterintuitive victory in academic publishing.",
+      "created": "2025-11-18",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
     },
     {
       "icon": "bi-shop",
       "title": "Mall Layout Analytics",
       "url": "https://nitin399-maker.github.io/mall-layout/",
-      "description": "Interactive U-shaped mall layout visualization with hoverable shops, walkway paths, and simple analytics-style UI components."
+      "description": "Interactive U-shaped mall layout visualization with hoverable shops, walkway paths, and simple analytics-style UI components.",
+      "created": "2025-11-12",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/mall-layout/"
+    },
+    {
+      "icon": "bi-activity",
+      "title": "Animated Data Insights",
+      "url": "https://pavankumart18.github.io/animated-data-insights/",
+      "description": "Interactive treemap dashboard based on Anthropic’s Economic Index, showing the most frequent topics and how people are using Claude across states and countries.",
+      "created": "2025-11-11",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/pavankumart18/animated-data-insights/"
+    },
+    {
+      "icon": "bi-file-earmark-easel",
+      "title": "Tata Trust RFP Response",
+      "url": "https://sanand0.github.io/tata-trust-data-visualization-rfp-2025/",
+      "description": "Complete RFP response with AI-powered data visualization platform proposal, featuring 16 interactive visualizations, scrollytelling data story, and demonstration of human-AI collaboration created in 7 days.",
+      "created": "2025-11-11",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tata-trust-data-visualization-rfp-2025/"
+    },
+    {
+      "icon": "bi-bar-chart-fill",
+      "title": "GDPVal: AI Augmentation",
+      "url": "https://sanand0.github.io/datastories/gdpval/",
+      "description": "Explore occupations most suitable for AI augmentation based on OpenAI's GDPVal exercise",
+      "created": "2025-10-19",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/datastories/"
+    },
+    {
+      "icon": "bi-file-bar-graph",
+      "title": "Data Scrollytelling",
+      "url": "https://yadav-aayansh.github.io/scrollytelling/",
+      "description": "Uploads data to automatically generate insights and narrate them as visual scrolly-telling narratives.",
+      "created": "2025-09-22",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/yadav-aayansh/scrollytelling/"
     },
     {
       "icon": "bi-badge-3d",
       "title": "3D Image Generator",
       "url": "https://github.com/Nitin399-maker/3dimagegen",
-      "description": "Generate 3D visual models from sketches. Useful for engineering, product design, science and education."
+      "description": "Generate 3D visual models from sketches. Useful for engineering, product design, science and education.",
+      "created": "2025-09-19",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/Nitin399-maker/3dimagegen/"
     },
     {
       "icon": "bi-badge-cc",
-      "title": "SubtitleGen",
-      "url": "https://prudhvi1709.github.io/subtitlegen/",
-      "description": "A browser-based application that generates accurate video subtitles using AI transcription."
-    },
-    {
-      "icon": "bi-stars",
-      "title": "DataGen",
-      "url": "https://nitin399-maker.github.io/datagen/",
-      "description": "Generate realistic synthetic data using LLMs. Use it to test models and apps, and anonymize demos."
+      "title": "Policy as Code",
+      "url": "https://sanand0.github.io/policyascode/",
+      "description": "Extract and consolidate atomic rules from policy documents. Apply them, making policies actionable.",
+      "created": "2025-09-08",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/policyascode/"
     },
     {
       "icon": "bi-layers-fill",
       "title": "AI Design Studio",
       "url": "https://aistudio.straivedemo.com/",
-      "description": "Uses LLMs to improve and convert images to design 3D objects."
+      "description": "Uses LLMs to improve and convert images to design 3D objects.",
+      "created": "2025-09-03",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/Nitin399-maker/aistudio/"
+    },
+    {
+      "icon": "bi-stars",
+      "title": "DataGen",
+      "url": "https://nitin399-maker.github.io/datagen/",
+      "description": "Generate realistic synthetic data using LLMs. Use it to test models and apps, and anonymize demos.",
+      "created": "2025-08-26",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/datagen/"
+    },
+    {
+      "icon": "bi-badge-cc",
+      "title": "SubtitleGen",
+      "url": "https://prudhvi1709.github.io/subtitlegen/",
+      "description": "A browser-based application that generates accurate video subtitles using AI transcription.",
+      "created": "2025-08-26",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/subtitlegen/"
     },
     {
       "icon": "bi-box",
       "title": "3D Objects",
       "url": "https://nitin399-maker.github.io/3dobjectgen/",
-      "description": "Uses LLMs to generate and edit interactive 3D objects in real-time with Three.js code."
+      "description": "Creates and edits interactive 3D objects from prompts, useful for quickly prototyping product ideas without full 3D modeling tools.",
+      "created": "2025-08-17",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/3dobjectgen/"
     },
     {
       "icon": "bi-database-fill-gear",
       "title": "SchemaForge",
       "url": "https://prudhvi1709.github.io/schemaforge/",
-      "description": "Uploads data to auto-generate schemas, tag PII, create ER diagrams, and build full data engineering pipelines with LLMs."
+      "description": "Builds draft schemas, PII tags, and ER diagrams from sample data, helping teams start data projects faster with fewer manual steps.",
+      "created": "2025-08-06",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/schemaforge/"
     },
     {
       "icon": "bi-shield-lock",
       "title": "CyberDetect",
       "url": "https://yadav-aayansh.github.io/cyberdetect/",
-      "description": "Analyzes log files and generates detection code for vulnerabilities like SQL injection, path traversal, and bot traffic."
-    },
-    {
-      "icon": "bi-bar-chart-steps",
-      "title": "Prompt Evals",
-      "url": "https://promptevals.straivedemo.com/",
-      "description": "Automate prompt engineering by validating the output using LLMs and revising prompts"
-    },
-    {
-      "icon": "bi-bar-chart-steps",
-      "title": "DataChat GoogleBot",
-      "url": "https://mail.google.com/chat/u/2/#chat/dm/_MyXL8AAAAE",
-      "description": "Add a dataset to your Google Chat thread and have natural language conversations with datasets"
-    },
-    {
-      "icon": "bi-person",
-      "title": "Personagen",
-      "url": "https://nitin399-maker.github.io/personagen/",
-      "description": "Generates synthetic audience based on profiles to test marketing campaigns and run surveys."
-    },
-    {
-      "icon": "bi-bar-chart-line",
-      "title": "Topic Trends",
-      "url": "https://sanand0.github.io/topictrends/",
-      "description": "Tracks trends in arXiv paper topics over time using LLMs."
-    },
-    {
-      "icon": "bi-journal-richtext",
-      "title": "Prompt-to-plot",
-      "url": "https://sanand0.github.io/talks/2025-06-28-prompt-to-plot/#14",
-      "description": "A series of visual data analyses created by designers (who don't know how to code) purely using LLM coding agents"
-    },
-    {
-      "icon": "bi-chat-dots",
-      "title": "LLM Daydreams",
-      "url": "https://tools.s-anand.net/daydream/",
-      "description": "Can LLMs discover truly innovative ideas through daydreaming by combining two concepts in a novel way?"
-    },
-    {
-      "icon": "bi-openai",
-      "title": "Straive ChatGPT",
-      "url": "https://tools.s-anand.net/straiveintelligence/",
-      "description": "A bookmarklet that turns ChatGPT into a Straive branded web application. Useful to test new capabilities"
-    },
-    {
-      "icon": "bi-microphone",
-      "title": "Podcastgen",
-      "url": "https://tools.s-anand.net/podcast/",
-      "description": "Generates podcast transcripts and audio from any document or content using LLMs."
-    },
-    {
-      "icon": "bi-plug",
-      "title": "API Agent",
-      "url": "https://sanand0.github.io/apiagent/",
-      "description": "Allows usersto query APIs via natural language, surfacing real-time without technical integration overhead."
-    },
-    {
-      "icon": "bi-flask-fill",
-      "title": "Hypothesis Forge",
-      "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
-      "description": "Automatically generates and statistically tests data hypotheses—returning success flags and p-values to accelerate data-driven experimentation and decision-making."
-    },
-    {
-      "icon": "bi-file-earmark-easel-fill",
-      "title": "AI Industry Use Cases",
-      "url": "https://sanand0.github.io/aislides/",
-      "description": "Auto-generated slideshows for LLM use cases in specific industries. Useful as backgrounds for talks and events"
-    },
-    {
-      "icon": "bi-google",
-      "title": "Google Suggest Trends",
-      "url": "https://tools.s-anand.net/googlesuggest/",
-      "description": "Explore how the top suggestions from Google vary across regions and what is unusual about each country's preferences"
-    },
-    {
-      "icon": "bi-github",
-      "title": "GitHub summary",
-      "url": "https://tools.s-anand.net/githubsummary/",
-      "description": "Get an in-depth understanding of a developer's activity over any time period. Learn about them and their work"
-    },
-    {
-      "icon": "bi-chat-left-dots",
-      "title": "DataChat",
-      "url": "https://prudhvi1709.github.io/datachat-llmf/",
-      "description": ""
-    },
-    {
-      "icon": "bi-stoplights",
-      "title": "Singapore Traffic Dashboard",
-      "url": "https://prudhvi1709.github.io/sgtraffic/",
-      "description": "Delivers real­time traffic volume, congestion analytics, and anomaly detection across camera feeds to optimize urban mobility and infrastructure planning."
-    },
-    {
-      "icon": "bi-bell",
-      "title": "Hospital Video Analytics",
-      "url": "https://prudhvi1709.github.io/videoalert/",
-      "description": "Employs AI-powered computer vision for real-time anomaly detection in video feeds, enhancing patient safety and operational alerts in healthcare environments."
-    },
-    {
-      "icon": "bi-capsule",
-      "title": "AEvolution",
-      "url": "https://krishna-gramener.github.io/adverse-events/",
-      "description": "A web-based tool for analyzing medical documents to identify adverse events, related medications, and relevant research articles."
-    },
-    {
-      "icon": "bi-file-text",
-      "title": "Entity Extractor",
-      "url": "https://llmentityextractor.sanand.workers.dev/",
-      "description": "Extracts entities from any document or content using LLMs."
-    },
-    {
-      "icon": "bi-camera-video",
-      "title": "Video Chat",
-      "url": "https://krishna-gramener.github.io/clinical-videochat/",
-      "description": "Streamlines extraction of key insights from lengthy video transcripts via a conversational interface, enabling rapid retrieval of tutorial highlights or expert insights without manual review."
-    },
-    {
-      "icon": "bi-geo-alt",
-      "title": "GeoFinder",
-      "url": "https://krishna-gramener.github.io/geofinder/",
-      "description": "Enables natural-language geographic queries with interactive map views, helping executives visualize location-based data and make informed decisions on markets, logistics, or site planning."
-    },
-    {
-      "icon": "bi-play",
-      "title": "K12 Video Analysis",
-      "url": "https://krishna-gramener.github.io/k12-videoanalysis/",
-      "description": "Leverages LLM embeddings and automated transcription to generate personalized video highlights for students, improving engagement and tailoring content to individual learning profiles."
-    },
-    {
-      "icon": "bi-file-earmark-diff",
-      "title": "PDF Text Comparison",
-      "url": "https://krishna-gramener.github.io/pdf-content-comparison/",
-      "description": "Provides side-by-side text comparison of two PDFs, quickly identifying content differences to streamline contract review, regulatory compliance checks, or editorial workflows."
-    },
-    {
-      "icon": "bi-person-lines-fill",
-      "title": "Personalized Decision Assistant",
-      "url": "https://krishna-gramener.github.io/decision-assistant/",
-      "description": "Offers a multi-LLM conversational assistant with data and mind-map visualizations to guide strategic decision-making, reducing cognitive load on business leaders."
-    },
-    {
-      "icon": "bi-file-earmark-bar-graph",
-      "title": "Ratings Critical Data",
-      "url": "https://krishna-gramener.github.io/ratings-critical-data/",
-      "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments."
-    },
-    {
-      "icon": "bi-cpu",
-      "title": "AI Pipe",
-      "url": "https://aipipe.org/",
-      "description": "Builds serverless LLM workflows using any OpenAI-compatible API."
-    },
-    {
-      "icon": "bi-megaphone",
-      "title": "BSToast",
-      "url": "https://prudhvi1709.github.io/bstoast/",
-      "description": "Tiny library offering Bootstrap toast notifications as a modern alert replacement."
-    },
-    {
-      "icon": "bi-diagram-3",
-      "title": "Decision Tree Builder",
-      "url": "https://prudhvi1709.github.io/decisiontreegen/",
-      "description": "Interactive tool to build and visualize decision trees in the browser."
-    },
-    {
-      "icon": "bi-diagram-3-fill",
-      "title": "DTGen",
-      "url": "https://prudhvi1709.github.io/dtgen/",
-      "description": "AI-assisted decision tree generator with advanced tree editing features."
-    },
-    {
-      "icon": "bi-briefcase-fill",
-      "title": "LinkedIn Apply Bot",
-      "url": "https://prudhvi1709.github.io/linkedinapply/",
-      "description": "Bookmarklet automating LinkedIn 'Easy Apply' with live progress tracking."
-    },
-    {
-      "icon": "bi-bar-chart",
-      "title": "Model Discipline",
-      "url": "https://prudhvi1709.github.io/model-discipline/",
-      "description": "Benchmarks instruction-following compliance of LLMs across providers."
-    },
-    {
-      "icon": "bi-graph-up-arrow",
-      "title": "MTEB Eval Dashboard",
-      "url": "https://prudhvi1709.github.io/mtebeval/",
-      "description": "Visualizes embedding model scores from the Massive Text Embedding Benchmark."
-    },
-    {
-      "icon": "bi-emoji-smile",
-      "title": "Sentiment Analyzer",
-      "url": "https://prudhvi1709.github.io/sentiment-analyzer/",
-      "description": "Browser-based tool for sentiment and emotion analysis with charts."
-    },
-    {
-      "icon": "bi-journal-text",
-      "title": "AddNotes Supabase",
-      "url": "https://krishna-gramener.github.io/addnotes-supabase/",
-      "description": "Real-time notes app using Supabase auth and database."
-    },
-    {
-      "icon": "bi-funnel-fill",
-      "title": "Data Quality Analyzer",
-      "url": "https://krishna-gramener.github.io/data-quality-analyzer/",
-      "description": "Analyzes spreadsheets in-browser using LLM-generated Python via Pyodide."
-    },
-    {
-      "icon": "bi-easel",
-      "title": "PPT Generator",
-      "url": "https://krishna-gramener.github.io/ppt-generator/",
-      "description": "Creates polished presentations from documents using AI-powered layouts."
+      "description": "Analyzes log files and generates detection code for vulnerabilities like SQL injection, path traversal, and bot traffic.",
+      "created": "2025-08-06",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/yadav-aayansh/cyberdetect/"
     },
     {
       "icon": "bi-terminal-dash",
       "title": "Carlinirepo Evaluator",
       "url": "https://nitin399-maker.github.io/automate_carlinirepo/",
-      "description": "Interactive promptfoo tester for running evaluation suites."
+      "description": "Runs prompt evaluation test suites in a simple UI so teams can compare prompt changes before deploying them.",
+      "created": "2025-07-27",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/automate_carlinirepo/"
+    },
+    {
+      "icon": "bi-openai",
+      "title": "Straive ChatGPT",
+      "url": "https://tools.s-anand.net/straiveintelligence/",
+      "description": "A bookmarklet that turns ChatGPT into a Straive branded web application. Useful to test new capabilities",
+      "created": "2025-07-21",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tools/"
+    },
+    {
+      "icon": "bi-chat-dots",
+      "title": "LLM Daydreams",
+      "url": "https://tools.s-anand.net/daydream/",
+      "description": "Can LLMs discover truly innovative ideas through daydreaming by combining two concepts in a novel way?",
+      "created": "2025-07-17",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tools/"
     },
     {
       "icon": "bi-signpost-2-fill",
       "title": "Decision Playbook",
       "url": "https://nitin399-maker.github.io/decisionplaybook/",
-      "description": "Step-by-step visualizer for exploring decision tree playbooks."
-    },
-    {
-      "icon": "bi-lightning-charge-fill",
-      "title": "LLM Word Predictor",
-      "url": "https://nitin399-maker.github.io/LLM-FILL/",
-      "description": "Demonstrates language model fill-in-the-blank predictions with probabilities."
+      "description": "Step-by-step visualizer for exploring decision tree playbooks.",
+      "created": "2025-06-25",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/decisionplaybook/"
     },
     {
       "icon": "bi-file-earmark-lock2",
       "title": "Document Compliance Analyzer",
       "url": "https://nitin399-maker.github.io/pdfext/",
-      "description": "Checks uploaded PDFs against custom compliance queries via OpenRouter."
+      "description": "Checks uploaded PDFs against custom compliance queries via OpenRouter.",
+      "created": "2025-06-25",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/pdfext/"
+    },
+    {
+      "icon": "bi-briefcase-fill",
+      "title": "LinkedIn Apply Bot",
+      "url": "https://prudhvi1709.github.io/linkedinapply/",
+      "description": "Bookmarklet automating LinkedIn 'Easy Apply' with live progress tracking.",
+      "created": "2025-06-18",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/linkedinapply/"
+    },
+    {
+      "icon": "bi-megaphone",
+      "title": "BSToast",
+      "url": "https://prudhvi1709.github.io/bstoast/",
+      "description": "Tiny library offering Bootstrap toast notifications as a modern alert replacement.",
+      "created": "2025-06-17",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/bstoast/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Decision Tree Builder",
+      "url": "https://prudhvi1709.github.io/decisiontreegen/",
+      "description": "Interactive tool to build and visualize decision trees in the browser.",
+      "created": "2025-06-16",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/decisiontreegen/"
+    },
+    {
+      "icon": "bi-file-earmark-easel-fill",
+      "title": "AI Industry Use Cases",
+      "url": "https://sanand0.github.io/aislides/",
+      "description": "Auto-generated slideshows for LLM use cases in specific industries. Useful as backgrounds for talks and events",
+      "created": "2025-06-16",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/aislides/"
+    },
+    {
+      "icon": "bi-lightning-charge-fill",
+      "title": "LLM Word Predictor",
+      "url": "https://nitin399-maker.github.io/LLM-FILL/",
+      "description": "Demonstrates language model fill-in-the-blank predictions with probabilities.",
+      "created": "2025-06-12",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/LLM-FILL/"
+    },
+    {
+      "icon": "bi-emoji-smile",
+      "title": "Sentiment Analyzer",
+      "url": "https://prudhvi1709.github.io/sentiment-analyzer/",
+      "description": "Browser-based tool for sentiment and emotion analysis with charts.",
+      "created": "2025-06-11",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/sentiment-analyzer/"
+    },
+    {
+      "icon": "bi-funnel-fill",
+      "title": "Data Quality Analyzer",
+      "url": "https://krishna-gramener.github.io/data-quality-analyzer/",
+      "description": "Finds data issues in spreadsheets and suggests fixes, helping analysts clean datasets faster before reporting or modeling.",
+      "created": "2025-06-10",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/data-quality-analyzer/"
+    },
+    {
+      "icon": "bi-diagram-3-fill",
+      "title": "DTGen",
+      "url": "https://prudhvi1709.github.io/dtgen/",
+      "description": "AI-assisted decision tree generator with advanced tree editing features.",
+      "created": "2025-06-06",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/dtgen/"
+    },
+    {
+      "icon": "bi-journal-text",
+      "title": "AddNotes Supabase",
+      "url": "https://krishna-gramener.github.io/addnotes-supabase/",
+      "description": "Real-time notes app using Supabase auth and database.",
+      "created": "2025-06-05",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/addnotes-supabase/"
+    },
+    {
+      "icon": "bi-bar-chart",
+      "title": "Model Discipline",
+      "url": "https://prudhvi1709.github.io/model-discipline/",
+      "description": "Benchmarks instruction-following compliance of LLMs across providers.",
+      "created": "2025-06-04",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/model-discipline/"
+    },
+    {
+      "icon": "bi-graph-up-arrow",
+      "title": "MTEB Eval Dashboard",
+      "url": "https://prudhvi1709.github.io/mtebeval/",
+      "description": "Makes embedding benchmark scores easy to compare, helping teams pick models that balance quality, speed, and cost.",
+      "created": "2025-06-04",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/mtebeval/"
+    },
+    {
+      "icon": "bi-google",
+      "title": "Google Suggest Trends",
+      "url": "https://tools.s-anand.net/googlesuggest/",
+      "description": "Explore how the top suggestions from Google vary across regions and what is unusual about each country's preferences",
+      "created": "2025-06-03",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tools/"
+    },
+    {
+      "icon": "bi-person",
+      "title": "Personagen",
+      "url": "https://nitin399-maker.github.io/personagen/",
+      "description": "Generates synthetic audience based on profiles to test marketing campaigns and run surveys.",
+      "created": "2025-05-28",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/nitin399-maker/personagen/"
+    },
+    {
+      "icon": "bi-bar-chart-line",
+      "title": "Topic Trends",
+      "url": "https://sanand0.github.io/topictrends/",
+      "description": "Tracks trends in arXiv paper topics over time using LLMs.",
+      "created": "2025-05-28",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/topictrends/"
+    },
+    {
+      "icon": "bi-easel",
+      "title": "PPT Generator",
+      "url": "https://krishna-gramener.github.io/ppt-generator/",
+      "description": "Creates polished presentations from documents using AI-powered layouts.",
+      "created": "2025-05-23",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/ppt-generator/"
+    },
+    {
+      "icon": "bi-person-lines-fill",
+      "title": "Personalized Decision Assistant",
+      "url": "https://krishna-gramener.github.io/decision-assistant/",
+      "description": "Offers a multi-LLM conversational assistant with data and mind-map visualizations to guide strategic decision-making, reducing cognitive load on business leaders.",
+      "created": "2025-05-22",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/decision-assistant/"
+    },
+    {
+      "icon": "bi-github",
+      "title": "GitHub summary",
+      "url": "https://tools.s-anand.net/githubsummary/",
+      "description": "Get an in-depth understanding of a developer's activity over any time period. Learn about them and their work",
+      "created": "2025-05-22",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tools/"
+    },
+    {
+      "icon": "bi-plug",
+      "title": "API Agent",
+      "url": "https://sanand0.github.io/apiagent/",
+      "description": "Lets anyone ask API questions in plain language and get live results, reducing the need for custom integration code.",
+      "created": "2025-05-21",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/apiagent/"
+    },
+    {
+      "icon": "bi-bar-chart-steps",
+      "title": "DataChat GoogleBot",
+      "url": "https://mail.google.com/chat/u/2/#chat/dm/_MyXL8AAAAE",
+      "description": "Lets teams attach a dataset in Google Chat and ask questions in plain language for quick, shareable answers.",
+      "repo": "https://github.com/sanand0/google-datachat/",
+      "created": "2025-05-20",
+      "license": "MIT",
+      "unreviewed": false
+    },
+    {
+      "icon": "bi-microphone",
+      "title": "Podcastgen",
+      "url": "https://tools.s-anand.net/podcast/",
+      "description": "Generates podcast transcripts and audio from any document or content using LLMs.",
+      "created": "2025-05-20",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/tools/"
+    },
+    {
+      "icon": "bi-bar-chart-steps",
+      "title": "Prompt Evals",
+      "url": "https://promptevals.straivedemo.com/",
+      "description": "Tests prompts automatically, checks output quality, and suggests revisions so teams can improve prompts faster.",
+      "repo": "https://github.com/sanand0/promptevals/",
+      "created": "2025-05-16",
+      "license": "MIT",
+      "unreviewed": false
+    },
+    {
+      "icon": "bi-chat-left-dots",
+      "title": "DataChat",
+      "url": "https://prudhvi1709.github.io/datachat-llmf/",
+      "description": "Chat with your tabular data in plain language to get summaries, trends, and quick answers without writing SQL.",
+      "created": "2025-05-15",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/datachat-llmf/"
+    },
+    {
+      "icon": "bi-flask-fill",
+      "title": "Hypothesis Forge",
+      "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
+      "description": "Suggests testable hypotheses from your dataset and runs statistical checks, helping teams prioritize ideas backed by evidence.",
+      "created": "2025-05-15",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/hypoforge-llmf/"
+    },
+    {
+      "icon": "bi-file-text",
+      "title": "Entity Extractor",
+      "url": "https://llmentityextractor.sanand.workers.dev/",
+      "description": "Extracts entities from any document or content using LLMs.",
+      "created": "2025-05-14",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/llmentityextractor/"
+    },
+    {
+      "icon": "bi-capsule",
+      "title": "AEvolution",
+      "url": "https://krishna-gramener.github.io/adverse-events/",
+      "description": "Scans medical documents for possible adverse events and related drugs, helping safety teams triage cases faster.",
+      "created": "2025-05-13",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/adverse-events/"
+    },
+    {
+      "icon": "bi-stoplights",
+      "title": "Singapore Traffic Dashboard",
+      "url": "https://prudhvi1709.github.io/sgtraffic/",
+      "description": "Monitors traffic patterns and anomalies across camera feeds so city teams can respond faster to congestion hotspots.",
+      "created": "2025-05-07",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/sgtraffic/"
+    },
+    {
+      "icon": "bi-bell",
+      "title": "Hospital Video Analytics",
+      "url": "https://prudhvi1709.github.io/videoalert/",
+      "description": "Watches hospital video streams for unusual events and raises alerts, helping staff respond sooner to safety incidents.",
+      "created": "2025-05-07",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/prudhvi1709/videoalert/"
+    },
+    {
+      "icon": "bi-geo-alt",
+      "title": "GeoFinder",
+      "url": "https://krishna-gramener.github.io/geofinder/",
+      "description": "Enables natural-language geographic queries with interactive map views, helping executives visualize location-based data and make informed decisions on markets, logistics, or site planning.",
+      "created": "2025-05-05",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/geofinder/"
+    },
+    {
+      "icon": "bi-cpu",
+      "title": "AI Pipe",
+      "url": "https://aipipe.org/",
+      "description": "Builds AI workflows visually so teams can prototype and run LLM automations without heavy backend setup.",
+      "created": "2025-04-16",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/aipipe/"
+    },
+    {
+      "icon": "bi-file-earmark-diff",
+      "title": "PDF Text Comparison",
+      "url": "https://krishna-gramener.github.io/pdf-content-comparison/",
+      "description": "Provides side-by-side text comparison of two PDFs, quickly identifying content differences to streamline contract review, regulatory compliance checks, or editorial workflows.",
+      "created": "2025-04-10",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/pdf-content-comparison/"
+    },
+    {
+      "icon": "bi-camera-video",
+      "title": "Video Chat",
+      "url": "https://krishna-gramener.github.io/clinical-videochat/",
+      "description": "Streamlines extraction of key insights from lengthy video transcripts via a conversational interface, enabling rapid retrieval of tutorial highlights or expert insights without manual review.",
+      "created": "2025-03-12",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/clinical-videochat/"
+    },
+    {
+      "icon": "bi-play",
+      "title": "K12 Video Analysis",
+      "url": "https://krishna-gramener.github.io/k12-videoanalysis/",
+      "description": "Creates personalized video highlights for students so they can review key moments faster and stay engaged.",
+      "created": "2025-03-06",
+      "license": "MIT",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/k12-videoanalysis/"
+    },
+    {
+      "icon": "bi-file-earmark-bar-graph",
+      "title": "Ratings Critical Data",
+      "url": "https://krishna-gramener.github.io/ratings-critical-data/",
+      "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments.",
+      "created": "2025-01-30",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/krishna-gramener/ratings-critical-data/"
+    },
+    {
+      "icon": "bi-journal-richtext",
+      "title": "Prompt-to-plot",
+      "url": "https://sanand0.github.io/talks/2025-06-28-prompt-to-plot/#14",
+      "description": "A series of visual data analyses created by designers (who don't know how to code) purely using LLM coding agents",
+      "created": "2011-02-11",
+      "license": "",
+      "unreviewed": false,
+      "repo": "https://github.com/sanand0/talks/"
+    },
+    {
+      "icon": "bi-briefcase",
+      "title": "WBD Digital Intern Marketplace",
+      "url": "https://digital-intern-marketplace.straivedemo.com/",
+      "description": "Marketplace of role-specific AI interns for Warner Bros. Discovery teams, designed to launch domain-focused assistants for internal workflows.",
+      "created": null,
+      "license": "",
+      "unreviewed": false,
+      "repo": ""
+    },
+    {
+      "icon": "bi-broadcast",
+      "title": "AI Video Intelligence",
+      "url": "https://event-buzz-intern.straivedemo.com/",
+      "description": "Sports video intelligence demo that searches match footage with natural language and auto-assembles social-ready highlight reels in under a minute.",
+      "created": null,
+      "license": "",
+      "unreviewed": false,
+      "repo": ""
     }
   ]
 }
