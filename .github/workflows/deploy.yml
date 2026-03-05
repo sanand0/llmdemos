@@ -27,6 +27,12 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v4
 
+      # Install uv to run lightweight Python build scripts
+      - uses: astral-sh/setup-uv@v5
+
+      # Generate demos.csv from config.json (artifact-only; not committed)
+      - run: uv run --script scripts/generate_demos_csv.py config.json demos.csv
+
       # We'll need Node.js to run Mustache
       - uses: actions/setup-node@v4
         with:
