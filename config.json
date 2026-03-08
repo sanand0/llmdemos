@@ -1,6 +1,28 @@
 {
   "demos": [
     {
+      "icon": "bi-broadcast",
+      "title": "WBD Converged AdTech Engine",
+      "url": "https://pavankumart18.github.io/adtech-engine/",
+      "description": "Analyzes audience, inventory, and booking data to structure ad campaigns with better yield and fewer compliance surprises.",
+      "reviewed": false,
+      "created": "2026-03-06",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/adtech-engine/"
+    },
+    {
+      "icon": "bi-bezier2",
+      "title": "AI-Driven 3D Design Journey",
+      "url": "https://pavankumart18.github.io/ai-blender-design-journey/",
+      "description": "Walks through an AI-led Blender design session so teams can see where conversational 3D design works, fails, and improves through iteration.",
+      "reviewed": false,
+      "created": "2026-03-06",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/ai-blender-design-journey/"
+    },
+    {
       "icon": "bi-diagram-3-fill",
       "title": "Loan Ops Digital Twin",
       "url": "https://nitin399-maker.github.io/loanprocessdt/",

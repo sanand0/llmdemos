@@ -1,14 +1,8 @@
 # LLM Demos
 
-A collection of LLM demos.
+A collection of (mostly LLM) demos. Though authors are often from Straive, these are **NOT** official products. They're personal projects shared as public open-source (MIT licensed) demos. They contain no confidential data/IP.
 
-This list aggregates interactive projects updated after **June 2025** from:
-
-- [prudhvi1709](https://github.com/prudhvi1709)
-- [krishna-gramener](https://github.com/krishna-gramener)
-- [nitin399-maker](https://github.com/nitin399-maker)
-- [pavankumart18](https://github.com/pavankumart18)
-- [ritesh17rb](https://github.com/ritesh17rb)
+This is deployed at [llmdemos.s-anand.net](https://llmdemos.s-anand.net/).
 
 ## Setup
 
@@ -17,7 +11,7 @@ To run locally:
 ```bash
 git clone https://github.com/sanand00/llmdemos.git
 cd llmdemos
-npx -y mustache config.json template.html > index.html
+npx -y mustache config.json template.html > index.html  # just build
 npx -y http-server .
 ```
 
@@ -29,4 +23,23 @@ git commit -m "Add new demo"
 git push
 ```
 
-This is deployed at [llmdemos.s-anand.net](https://llmdemos.s-anand.net/) via CloudFlare DNS (root.node@gmail.com) via [Zero Trust auth](https://one.dash.cloudflare.com/2c483e1dd66869c9554c6949a2d17d96/access/apps/self-hosted/23c76465-2ba4-4a39-b742-37bead262a28/edit).
+<!--
+
+# Update demos
+
+Scan the public GitHub repositories of:
+krishna-gramener
+prudhvi1709
+nitin399-maker
+pavankumart18
+pythonicvarun
+ritesh17rb
+yadav-aayansh
+mynkpdr
+
+... and add any GOOD repos having GitHub Pages created on/after the latest "created" in config.json.
+
+Add a "reviewed": false field to them to indicate that human review is needed.
+Use the public access GITHUB_TOKEN in .env if you need.
+
+-->

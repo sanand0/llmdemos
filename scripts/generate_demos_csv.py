@@ -40,7 +40,7 @@ def build_columns(demos: list[dict]) -> list[str]:
 
 def main() -> int:
     src = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("config.json")
-    dst = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("demos.csv")
+    dst = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("llmdemos.csv")
 
     payload = json.loads(src.read_text(encoding="utf-8"))
     demos = payload.get("demos", [])
