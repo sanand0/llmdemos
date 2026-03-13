@@ -1,6 +1,61 @@
 {
   "demos": [
     {
+      "icon": "bi-building",
+      "title": "District Governance Intelligence System",
+      "url": "https://krishna-gramener.github.io/dgis/",
+      "description": "Analyzes district healthcare datasets and turns anomalies into prioritized action plans and email drafts for government administrators.",
+      "reviewed": false,
+      "created": "2026-03-12",
+      "license": "MIT",
+      "unreviewed": true,
+      "repo": "https://github.com/krishna-gramener/dgis/"
+    },
+    {
+      "icon": "bi-graph-up",
+      "title": "Fun Anomalies",
+      "url": "https://ritesh17rb.github.io/funanomaly/",
+      "description": "Explores six public datasets with AI-ranked anomalies so readers can jump from raw records to the strangest patterns hiding in science and government data.",
+      "reviewed": false,
+      "created": "2026-03-10",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/funanomaly/"
+    },
+    {
+      "icon": "bi-credit-card-2-front",
+      "title": "Stripe Payment Simulator",
+      "url": "https://ritesh17rb.github.io/stripe-emulator/",
+      "description": "Shows how AI coding agents can emulate Stripe PaymentIntents, generate doc-traceable tests, and compare emulator behavior against live API responses.",
+      "reviewed": false,
+      "created": "2026-03-10",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/stripe-emulator/"
+    },
+    {
+      "icon": "bi-cpu",
+      "title": "Bridging Language & Machines",
+      "url": "https://pavankumart18.github.io/ai-ros/",
+      "description": "Technical walkthrough of an LLM-to-robot pipeline that converts natural-language prompts into live ROS2 commands across Gazebo and MuJoCo simulators.",
+      "reviewed": false,
+      "created": "2026-03-09",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/pavankumart18/ai-ros/"
+    },
+    {
+      "icon": "bi-search",
+      "title": "Government Data Anomaly Audit",
+      "url": "https://ritesh17rb.github.io/data-anomaly-audit/",
+      "description": "Script-backed casefiles for public-sector datasets that surface impossible totals, reporting breaks, and suspicious patterns with reproducible evidence.",
+      "reviewed": false,
+      "created": "2026-03-09",
+      "license": "",
+      "unreviewed": true,
+      "repo": "https://github.com/ritesh17rb/data-anomaly-audit/"
+    },
+    {
       "icon": "bi-broadcast",
       "title": "WBD Converged AdTech Engine",
       "url": "https://pavankumart18.github.io/adtech-engine/",
