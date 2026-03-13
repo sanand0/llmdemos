@@ -678,7 +678,7 @@
     {
       "icon": "bi-layers-fill",
       "title": "AI Design Studio",
-      "url": "https://aistudio.straivedemo.com/",
+      "url": "https://nitin399-maker.github.io/aistudio/",
       "description": "Uses LLMs to improve and convert images to design 3D objects.",
       "created": "2025-09-03",
       "license": "MIT",
@@ -988,7 +988,7 @@
     {
       "icon": "bi-bar-chart-steps",
       "title": "Prompt Evals",
-      "url": "https://promptevals.straivedemo.com/",
+      "url": "https://sanand0.github.io/promptevals/",
       "description": "Tests prompts automatically, checks output quality, and suggests revisions so teams can improve prompts faster.",
       "repo": "https://github.com/sanand0/promptevals/",
       "created": "2025-05-16",
