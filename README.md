@@ -2,8 +2,6 @@
 
 A collection of (mostly LLM) demos. Though authors are often from Straive, these are **NOT** official products. They're personal projects shared as public open-source (MIT licensed) demos. They contain no confidential data/IP.
 
-This is deployed at [llmdemos.s-anand.net](https://llmdemos.s-anand.net/).
-
 ## Setup
 
 To run locally:
