@@ -9,7 +9,7 @@ To run locally:
 ```bash
 git clone https://github.com/sanand00/llmdemos.git
 cd llmdemos
-npx -y mustache config.json template.html > index.html  # just build
+just build
 npx -y http-server .
 ```
 
@@ -21,10 +21,13 @@ git commit -m "Add new demo"
 git push
 ```
 
+See [`AGENTS.md`](AGENTS.md) for the helper workflow and repo discovery commands.
+
 <!--
 
-# Update demos
+Prompt to use with Codex when refreshing the demo list (e.g. with Codex - GPT 5.4 medium):
 
+```text
 Scan the public GitHub repositories of:
 krishna-gramener
 prudhvi1709
@@ -38,6 +41,9 @@ mynkpdr
 ... and add any GOOD repos having GitHub Pages created on/after the latest "created" in config.json.
 
 Add a "reviewed": false field to them to indicate that human review is needed.
+Add a "branded": true if any repo's contents include "Straive", "Gramener", "Learning\\s*Mate", "Double\\s*Line", "SG\\s*Analytics" (case-insensitive).
 Use the public access GITHUB_TOKEN in .env if you need.
+```
 
+codex resume 019d1dbd-de04-7681-9bf5-0479af7fe9ac
 -->

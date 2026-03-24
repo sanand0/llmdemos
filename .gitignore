@@ -1,3 +1,7 @@
 index.html
 .env
 llmdemos.csv
+open-demos.csv
+.cache/
+__pycache__/
+*.pyc

@@ -115,7 +115,7 @@
         line-height: 1.55;
       }
 
-      /* Unreviewed accent */
+      /* Needs-review accent */
       .card-unreviewed { border-left: 3px solid var(--bs-warning) !important; }
 
       /* Arrow nudge on hover */
@@ -202,7 +202,7 @@
         {{#demos}}
         <div class="col demo-item">
           <!-- Entire card is the link — eliminates the nested-<a> anti-pattern -->
-          <a href="{{url}}" target="_blank" rel="noopener" class="demo-card card h-100 shadow-sm {{#unreviewed}}card-unreviewed{{/unreviewed}}">
+          <a href="{{url}}" target="_blank" rel="noopener" class="demo-card card h-100 shadow-sm {{^reviewed}}card-unreviewed{{/reviewed}}">
             <div class="card-body p-4">
               <div class="d-flex gap-3 mb-3">
                 <div class="icon-pill">
@@ -210,11 +210,11 @@
                 </div>
                 <div class="flex-grow-1 min-w-0">
                   <h3 class="card-title h6 fw-semibold mb-1">{{title}}</h3>
-                  {{#unreviewed}}
+                  {{^reviewed}}
                   <span class="badge text-bg-warning" style="font-size:.65rem;">
                     <i class="bi bi-exclamation-triangle me-1"></i>Needs review
                   </span>
-                  {{/unreviewed}}
+                  {{/reviewed}}
                 </div>
               </div>
               <p class="card-desc text-body-secondary mb-3">{{description}}</p>

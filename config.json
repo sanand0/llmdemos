@@ -1,6 +1,66 @@
 {
   "demos": [
     {
+      "icon": "bi-controller",
+      "title": "Floor Is Lava",
+      "url": "https://ritesh17rb.github.io/floor-is-lava/",
+      "description": "Arcade survival game where players dodge spreading lava, chain powerups, and compete for leaderboard scores in short browser runs.",
+      "reviewed": false,
+      "created": "2026-03-22",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/floor-is-lava/"
+    },
+    {
+      "icon": "bi-soundwave",
+      "title": "Arijit Singh Blue Hour Ballads",
+      "url": "https://ritesh17rb.github.io/arijit-song-waves/",
+      "description": "Transforms 150 Arijit Singh tracks into animated waveforms that can be filtered by mood while exposing BPM, energy, and preview clips.",
+      "reviewed": false,
+      "created": "2026-03-20",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/arijit-song-waves/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "Visual Identity of Data Journalism",
+      "url": "https://ritesh17rb.github.io/chart-map/",
+      "description": "Maps chart screenshots from major publishers into a UMAP scatterplot so readers can compare how newsroom visual styles cluster by similarity.",
+      "reviewed": true,
+      "created": "2026-03-20",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/chart-map/"
+    },
+    {
+      "icon": "bi-stars",
+      "title": "Sound Universe",
+      "url": "https://ritesh17rb.github.io/sound-universe/",
+      "description": "Turns microphone or uploaded audio into an interactive galaxy whose motion reacts live to sound amplitude and frequency.",
+      "reviewed": false,
+      "created": "2026-03-20",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/sound-universe/"
+    },
+    {
+      "icon": "bi-camera-video",
+      "title": "Briefing Studio",
+      "url": "https://ritesh17rb.github.io/briefing-studio/",
+      "description": "Generates company research, slide decks, narration, and exportable briefing videos in one browser workflow.",
+      "reviewed": false,
+      "created": "2026-03-18",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/briefing-studio/"
+    },
+    {
+      "icon": "bi-shield-check",
+      "title": "InsurLE",
+      "url": "https://mynkpdr.github.io/insurle-demo/",
+      "description": "Encodes insurance contracts as logic rules and animates claim-verification traces so users can inspect how each coverage decision is reached.",
+      "reviewed": true,
+      "created": "2026-03-18",
+      "license": "",
+      "repo": "https://github.com/mynkpdr/insurle-demo/"
+    },
+    {
       "icon": "bi-building",
       "title": "District Governance Intelligence System",
       "url": "https://krishna-gramener.github.io/dgis/",
@@ -8,7 +68,6 @@
       "reviewed": false,
       "created": "2026-03-12",
       "license": "MIT",
-      "unreviewed": true,
       "repo": "https://github.com/krishna-gramener/dgis/"
     },
     {
@@ -16,10 +75,9 @@
       "title": "Fun Anomalies",
       "url": "https://ritesh17rb.github.io/funanomaly/",
       "description": "Explores six public datasets with AI-ranked anomalies so readers can jump from raw records to the strangest patterns hiding in science and government data.",
-      "reviewed": false,
+      "reviewed": true,
       "created": "2026-03-10",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/funanomaly/"
     },
     {
@@ -30,7 +88,6 @@
       "reviewed": false,
       "created": "2026-03-10",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/stripe-emulator/"
     },
     {
@@ -41,7 +98,6 @@
       "reviewed": false,
       "created": "2026-03-09",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/ai-ros/"
     },
     {
@@ -49,10 +105,9 @@
       "title": "Government Data Anomaly Audit",
       "url": "https://ritesh17rb.github.io/data-anomaly-audit/",
       "description": "Script-backed casefiles for public-sector datasets that surface impossible totals, reporting breaks, and suspicious patterns with reproducible evidence.",
-      "reviewed": false,
+      "reviewed": true,
       "created": "2026-03-09",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/data-anomaly-audit/"
     },
     {
@@ -63,7 +118,6 @@
       "reviewed": false,
       "created": "2026-03-06",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/adtech-engine/"
     },
     {
@@ -71,10 +125,9 @@
       "title": "AI-Driven 3D Design Journey",
       "url": "https://pavankumart18.github.io/ai-blender-design-journey/",
       "description": "Walks through an AI-led Blender design session so teams can see where conversational 3D design works, fails, and improves through iteration.",
-      "reviewed": false,
+      "reviewed": true,
       "created": "2026-03-06",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/ai-blender-design-journey/"
     },
     {
@@ -85,7 +138,6 @@
       "reviewed": false,
       "created": "2026-03-04",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/nitin399-maker/loanprocessdt/"
     },
     {
@@ -96,7 +148,6 @@
       "reviewed": false,
       "created": "2026-03-04",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/ad-campaign-engine/"
     },
     {
@@ -107,7 +158,6 @@
       "reviewed": false,
       "created": "2026-03-02",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/clinical-data-review/"
     },
     {
@@ -118,7 +168,6 @@
       "reviewed": false,
       "created": "2026-03-02",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/merlin-kpi-compass/"
     },
     {
@@ -126,9 +175,9 @@
       "title": "Data Pipe X-Ray",
       "url": "https://ritesh17rb.github.io/pipeline-xray/",
       "description": "Turns a messy API spec into test cases so QA teams can catch data-pipeline failures earlier and cut manual testing effort.",
+      "reviewed": true,
       "created": "2026-03-01",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/pipeline-xray/"
     },
     {
@@ -136,9 +185,11 @@
       "title": "SQL Migration Narrative Demo",
       "url": "https://sanand0.github.io/datastories/sql-migration/",
       "description": "An interactive walkthrough of migrating 100 SQL Server scripts to MySQL with LLM-assisted conversion, verification, and business-impact simulation.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2026-02-27",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -146,9 +197,9 @@
       "title": "Automation Replay Dashboard",
       "url": "https://ritesh17rb.github.io/video-automation/",
       "description": "Converts screen recordings into runnable Playwright tests, helping teams reproduce bugs and automate regression checks faster.",
+      "reviewed": true,
       "created": "2026-02-24",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/video-automation/"
     },
     {
@@ -156,9 +207,11 @@
       "title": "SchoolAI Demo Portal",
       "url": "https://sanand0.github.io/schoolai/",
       "description": "Executive portal for interactive AI demos in enrollment triage, credit checking, and financial aid support for schools and universities.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/schoolai/search?q=Straive&type=code",
       "created": "2026-02-24",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/schoolai/"
     },
     {
@@ -166,9 +219,11 @@
       "title": "Super-Fast AI Credit Checking",
       "url": "https://sanand0.github.io/schoolai/credit-checking/",
       "description": "Evaluates mixed student evidence such as transcripts, military records, and certifications to quickly estimate transfer credits with AI-guided extraction.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/schoolai/search?q=Straive&type=code",
       "created": "2026-02-24",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/schoolai/"
     },
     {
@@ -176,9 +231,11 @@
       "title": "Triage Agent",
       "url": "https://sanand0.github.io/schoolai/triage/",
       "description": "Enrollment operations dashboard that classifies inbound inquiries, drafts responses, routes escalations, and tracks response-time and coverage metrics.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/schoolai/search?q=Straive&type=code",
       "created": "2026-02-24",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/schoolai/"
     },
     {
@@ -186,9 +243,9 @@
       "title": "3D Floor Plan Benchmark Dashboard",
       "url": "https://pavankumart18.github.io/3d-benchmark-analysis/",
       "description": "Lets architects compare generated 3D plans with original 2D layouts, making it easier to pick models that preserve room accuracy.",
+      "reviewed": true,
       "created": "2026-02-23",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/3d-benchmark-analysis/"
     },
     {
@@ -196,9 +253,9 @@
       "title": "Autonomous Deal Structuring Agent",
       "url": "https://pavankumart18.github.io/deal-engine/",
       "description": "Helps sales teams evaluate deal options faster by surfacing pricing and compliance risks and recommending safer, higher-margin scenarios.",
+      "reviewed": true,
       "created": "2026-02-23",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/deal-engine/"
     },
     {
@@ -209,7 +266,6 @@
       "reviewed": false,
       "created": "2026-02-23",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/pipeline-atlas/"
     },
     {
@@ -220,7 +276,6 @@
       "reviewed": false,
       "created": "2026-02-19",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/llm-filter-gallery/"
     },
     {
@@ -228,9 +283,9 @@
       "title": "ComplianceIQ",
       "url": "https://pavankumart18.github.io/school-compliance-checker/",
       "description": "Florida private school compliance checker that maps school documents to state and federal regulations and summarizes checklist-level compliance.",
+      "reviewed": true,
       "created": "2026-02-18",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/school-compliance-checker/"
     },
     {
@@ -238,9 +293,9 @@
       "title": "Parent Feedback Sentiment Dashboard",
       "url": "https://pavankumart18.github.io/parent-feedback-analysis/",
       "description": "Summarizes parent feedback into clear pain points and school-level heatmaps so leadership can prioritize the highest-impact improvements.",
+      "reviewed": true,
       "created": "2026-02-10",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/parent-feedback-analysis/"
     },
     {
@@ -251,7 +306,6 @@
       "reviewed": false,
       "created": "2026-02-09",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/nitin399-maker/Datastory/"
     },
     {
@@ -259,9 +313,9 @@
       "title": "Geographic Story Builder",
       "url": "https://pavankumart18.github.io/visual-biography/",
       "description": "Generates interactive map-based biographies from a person or storyline prompt, with shareable story views and JSON exports.",
+      "reviewed": true,
       "created": "2026-02-09",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/visual-biography/"
     },
     {
@@ -269,9 +323,11 @@
       "title": "Researcher of the Future",
       "url": "https://sanand0.github.io/datastories/researcher-of-the-future/",
       "description": "How 3,200+ researchers across 113 countries view AI, integrity, collaboration, mobility, and impact — from Elsevier's Confidence in Research report.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2026-02-09",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -279,9 +335,11 @@
       "title": "Retractions Are Happening in Waves",
       "url": "https://sanand0.github.io/datastories/retraction-watch/",
       "description": "We analyzed 68,658 Retraction Watch records to find the biggest patterns, surprising signals, and practical actions. An early-warning publisher dashboard for where trust, reputation, and legal risk can spike.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2026-02-09",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -292,7 +350,6 @@
       "reviewed": false,
       "created": "2026-02-08",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/nitin399-maker/Interpreter/"
     },
     {
@@ -300,9 +357,9 @@
       "title": "Daily News Comics",
       "url": "https://nitin399-maker.github.io/comicgen/",
       "description": "Editorial-comic generator and gallery that turns current headlines into satirical comic cards with filtering by date and topic.",
+      "reviewed": true,
       "created": "2026-02-03",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/comicgen/"
     },
     {
@@ -310,9 +367,9 @@
       "title": "SQL Usage Analysis",
       "url": "https://pavankumart18.github.io/sql-analysis/",
       "description": "Shows which SQL queries consume the most effort and runtime, helping data teams optimize critical reports and reduce repetitive ad-hoc work.",
+      "reviewed": true,
       "created": "2026-02-02",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/sql-analysis/"
     },
     {
@@ -320,9 +377,9 @@
       "title": "The Secret Life of Nutella",
       "url": "https://nitin399-maker.github.io/nutella/",
       "description": "Scrollytelling data story comparing Nutella product formulations across countries to reveal regional differences in sugar content and market adaptation.",
+      "reviewed": true,
       "created": "2026-01-29",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/nutella/"
     },
     {
@@ -333,7 +390,6 @@
       "reviewed": false,
       "created": "2026-01-28",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/embroidered-chart/"
     },
     {
@@ -341,9 +397,9 @@
       "title": "Topicmodel Examples",
       "url": "https://ritesh17rb.github.io/topicmodel/",
       "description": "Compares two text-grouping methods on sample datasets so analysts can choose the approach that clusters their documents better.",
+      "reviewed": true,
       "created": "2026-01-28",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/topicmodel/"
     },
     {
@@ -351,9 +407,9 @@
       "title": "Dilbert Vision Model Evaluation",
       "url": "https://pavankumart18.github.io/comic-transcriptions/",
       "description": "Compares vision models on comic transcription quality so teams can pick the one that best preserves dialogue, speakers, and panel structure.",
+      "reviewed": true,
       "created": "2026-01-27",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/comic-transcriptions/"
     },
     {
@@ -361,9 +417,9 @@
       "title": "SVG Generation Benchmark",
       "url": "https://pavankumart18.github.io/svg-generation-analysis/",
       "description": "Benchmarks text-to-SVG models so designers can choose generators that produce cleaner, more usable artwork with less manual fixing.",
+      "reviewed": true,
       "created": "2026-01-27",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/svg-generation-analysis/"
     },
     {
@@ -371,9 +427,9 @@
       "title": "SVG Generation Benchmark",
       "url": "https://pavankumart18.github.io/svg-generation-analysis/",
       "description": "Benchmarks text-to-SVG models so designers can choose generators that produce cleaner, more usable artwork with less manual fixing.",
+      "reviewed": true,
       "created": "2026-01-27",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/svg-generation-analysis/"
     },
     {
@@ -384,7 +440,6 @@
       "reviewed": false,
       "created": "2026-01-23",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/data-story-olmo/"
     },
     {
@@ -392,9 +447,9 @@
       "title": "Urban Analysis Platform (OlmoEarth)",
       "url": "https://ritesh17rb.github.io/olmo-earth/",
       "description": "Tracks urban change from satellite imagery so planners can see where growth, density, and green cover are shifting over time.",
+      "reviewed": true,
       "created": "2026-01-15",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/olmo-earth/"
     },
     {
@@ -402,9 +457,11 @@
       "title": "Textbook Fact-Checker",
       "url": "https://pythonicvarun.github.io/textbook-analysis/",
       "description": "AI-powered fact-checking analysis of NCERT Class 12 history textbooks, verifying 45+ claims and identifying accuracy issues using automated verification against academic databases and archaeological records.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/pythonicvarun/textbook-analysis/search?q=Straive&type=code",
       "created": "2026-01-14",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pythonicvarun/textbook-analysis/"
     },
     {
@@ -412,9 +469,9 @@
       "title": "Market Prediction Analyzer",
       "url": "https://ritesh17rb.github.io/market-prediction/",
       "description": "Turns noisy prediction-market activity into digestible trends, helping teams quickly see where consensus is strengthening or drifting.",
+      "reviewed": true,
       "created": "2026-01-14",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/market-prediction/"
     },
     {
@@ -422,9 +479,9 @@
       "title": "Price Elasticity Modeling",
       "url": "https://prudhvi1709.github.io/pricing-studio/",
       "description": "Understand how price changes impact subscriber behavior, revenue, and growth for streaming services. Make data-driven pricing decisions with confidence through elasticity analysis.",
+      "reviewed": true,
       "created": "2026-01-13",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/pricing-studio/"
     },
     {
@@ -432,9 +489,11 @@
       "title": "Can AI Replace Human Paper Reviewers?",
       "url": "https://sanand0.github.io/datastories/ai-agents-for-science/",
       "description": "An investigation into what happens when artificial intelligence reviews scientific papers — and what goes hilariously (and seriously) wrong.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2026-01-13",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -442,9 +501,9 @@
       "title": "The TypeError Detective",
       "url": "https://pythonicvarun.github.io/py-libraries-analysis/",
       "description": "Journey through Python's None-handling underworld by filing identical type errors in SQLAlchemy, Apache Arrow, and scikit-learn to reveal patterns in open-source maintenance and software evolution.",
+      "reviewed": true,
       "created": "2026-01-08",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pythonicvarun/py-libraries-analysis/"
     },
     {
@@ -455,7 +514,6 @@
       "reviewed": false,
       "created": "2026-01-07",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/ritesh17rb/ai-interview/"
     },
     {
@@ -463,9 +521,9 @@
       "title": "Multi-Model Image Reproduction",
       "url": "https://nitin399-maker.github.io/imagediffer/",
       "description": "Compares image outputs from different AI models with visual error maps, helping teams choose the model closest to a target reference.",
+      "reviewed": true,
       "created": "2026-01-06",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/imagediffer/"
     },
     {
@@ -473,9 +531,9 @@
       "title": "SVG Animator",
       "url": "https://nitin399-maker.github.io/svg-doodle/",
       "description": "Generate hand-drawn SVG animations using AI from natural language prompts. Customize roughness, stroke width, timing, and colors to create beautiful animated drawings with realistic hand-drawn effects.",
+      "reviewed": true,
       "created": "2026-01-05",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/svg-doodle/"
     },
     {
@@ -483,9 +541,9 @@
       "title": "Gemma Token Tree Analysis",
       "url": "https://pythonicvarun.github.io/gemma-token-analysis/",
       "description": "Visualize how language models predict the next token by exploring the 'multiverse' of paths the Gemma model considers. Interactive token trees reveal how probability shapes AI creativity and decision-making.",
+      "reviewed": true,
       "created": "2026-01-03",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pythonicvarun/gemma-token-analysis/"
     },
     {
@@ -493,9 +551,9 @@
       "title": "Linux Foundation Leaderboards",
       "url": "https://pythonicvarun.github.io/LinuxFoundation-Leaderboards-Analysis/",
       "description": "Multiple visual storytelling perspectives on open source community data. Explore contributor ecosystems through narrative journalism, interactive scrollytelling, artistic D3.js visualizations, and analytical insights.",
+      "reviewed": true,
       "created": "2026-01-02",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pythonicvarun/LinuxFoundation-Leaderboards-Analysis/"
     },
     {
@@ -503,9 +561,11 @@
       "title": "The Ambiguous Song",
       "url": "https://sanand0.github.io/datastories/emotify/",
       "description": "How humans label emotions in music—400 tracks across 4 genres rated by multiple annotators, revealing which emotions spark the most disagreement.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-12-25",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -513,9 +573,11 @@
       "title": "Can AI Hear What We Feel?",
       "url": "https://sanand0.github.io/datastories/llm-music/",
       "description": "Data-driven investigation into whether AI can understand music emotion by comparing Google Gemini's predictions against 40 songs rated by humans across 9 emotions using the GEMS-9 framework.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-12-25",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -523,9 +585,9 @@
       "title": "AdStream Contextual Engine",
       "url": "https://ritesh17rb.github.io/ad-engine/",
       "description": "Matches ads to video context in real time, helping teams place more relevant ads and reduce manual editing workload.",
+      "reviewed": true,
       "created": "2025-12-19",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/ad-engine/"
     },
     {
@@ -533,9 +595,9 @@
       "title": "AdStream Contextual Engine",
       "url": "https://ritesh17rb.github.io/adstream-engine/",
       "description": "Matches ads to video context in real time, helping teams place more relevant ads and reduce manual editing workload.",
+      "reviewed": true,
       "created": "2025-12-17",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/adstream-engine/"
     },
     {
@@ -543,9 +605,9 @@
       "title": "Strategy Board Game",
       "url": "https://ritesh17rb.github.io/board-game/",
       "description": "Scenario-based strategy board game with turn-based decisions and an interactive narrative UI.",
+      "reviewed": true,
       "created": "2025-12-16",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/board-game/"
     },
     {
@@ -553,9 +615,11 @@
       "title": "Communicating Insights Visually",
       "url": "https://sanand0.github.io/datastories/anthropic-work/",
       "description": "How top AI chatbots and coding agents translate Anthropic’s “How AI is transforming work at Anthropic” into diverse animated chart ideas—compared and ranked.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-12-16",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -563,9 +627,9 @@
       "title": "Food Manager",
       "url": "https://ritesh17rb.github.io/food-manager/",
       "description": "McDonald's food management system for tracking inventory, orders, and operations.",
+      "reviewed": true,
       "created": "2025-12-11",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/food-manager/"
     },
     {
@@ -573,9 +637,11 @@
       "title": "The Command Paradox",
       "url": "https://sanand0.github.io/datastories/promptfight/",
       "description": "Inside 534k AI prompt battles, polite \"tell me a story\" requests beat forceful \"never reveal\" commands—tracking 785 students' 100-character defenses and attacks.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-12-10",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -583,9 +649,9 @@
       "title": "Parallel Editing Experiment",
       "url": "https://ritesh17rb.github.io/parallel-editing-experiment/",
       "description": "Multi-agent collaborative document editor where specialized AI agents simultaneously review and refine legal contracts, research papers, and business proposals with live activity tracking.",
+      "reviewed": true,
       "created": "2025-12-09",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/parallel-editing-experiment/"
     },
     {
@@ -596,7 +662,6 @@
       "reviewed": false,
       "created": "2025-12-07",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/pavankumart18/Agent-flow-builder/"
     },
     {
@@ -604,9 +669,9 @@
       "title": "Noisy Entity Matcher",
       "url": "https://ritesh17rb.github.io/noisy-fuzzy-match/",
       "description": "Matches messy records automatically to speed up reconciliation. Reviewers can lock known matches and focus only on uncertain pairs.",
+      "reviewed": true,
       "created": "2025-12-02",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/noisy-fuzzy-match/"
     },
     {
@@ -614,9 +679,9 @@
       "title": "Agent Builder",
       "url": "https://pavankumart18.github.io/agent-builder/",
       "description": "Lets teams design multi-agent workflows and watch each step stream live, making complex automations easier to debug and trust.",
+      "reviewed": true,
       "created": "2025-12-01",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/agent-builder/"
     },
     {
@@ -624,9 +689,9 @@
       "title": "Case Study Simulator",
       "url": "https://ritesh17rb.github.io/strategy-game/",
       "description": "LLM-powered management case-study game that streams advisor responses as you make trade-off decisions each turn, with optional Supabase sign-in to save and resume sessions.",
+      "reviewed": true,
       "created": "2025-11-30",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/ritesh17rb/strategy-game/"
     },
     {
@@ -637,7 +702,6 @@
       "reviewed": false,
       "created": "2025-11-27",
       "license": "",
-      "unreviewed": true,
       "repo": "https://github.com/nitin399-maker/Textchecker/"
     },
     {
@@ -645,9 +709,9 @@
       "title": "ReasonForge",
       "url": "https://prudhvi1709.github.io/reasonforge/",
       "description": "Generates multiple solution plans for coding or system-design tasks, then helps you refine the best one before implementation.",
+      "reviewed": true,
       "created": "2025-11-27",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/reasonforge/"
     },
     {
@@ -655,9 +719,11 @@
       "title": "The Publisher Who Chose to Shrink",
       "url": "https://sanand0.github.io/datastories/frontiers-2024/",
       "description": "How Frontiers deliberately cut output by 36% to fight AI-generated fraud and won with quality. A counterintuitive victory in academic publishing.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-11-18",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -665,9 +731,9 @@
       "title": "Mall Layout Analytics",
       "url": "https://nitin399-maker.github.io/mall-layout/",
       "description": "Interactive U-shaped mall layout visualization with hoverable shops, walkway paths, and simple analytics-style UI components.",
+      "reviewed": true,
       "created": "2025-11-12",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/mall-layout/"
     },
     {
@@ -675,9 +741,9 @@
       "title": "Animated Data Insights",
       "url": "https://pavankumart18.github.io/animated-data-insights/",
       "description": "Interactive treemap dashboard based on Anthropic’s Economic Index, showing the most frequent topics and how people are using Claude across states and countries.",
+      "reviewed": true,
       "created": "2025-11-11",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/pavankumart18/animated-data-insights/"
     },
     {
@@ -685,9 +751,11 @@
       "title": "Tata Trust RFP Response",
       "url": "https://sanand0.github.io/tata-trust-data-visualization-rfp-2025/",
       "description": "Complete RFP response with AI-powered data visualization platform proposal, featuring 16 interactive visualizations, scrollytelling data story, and demonstration of human-AI collaboration created in 7 days.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tata-trust-data-visualization-rfp-2025/search?q=Straive&type=code",
       "created": "2025-11-11",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tata-trust-data-visualization-rfp-2025/"
     },
     {
@@ -695,9 +763,11 @@
       "title": "GDPVal: AI Augmentation",
       "url": "https://sanand0.github.io/datastories/gdpval/",
       "description": "Explore occupations most suitable for AI augmentation based on OpenAI's GDPVal exercise",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/datastories/search?q=Straive&type=code",
       "created": "2025-10-19",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/datastories/"
     },
     {
@@ -705,9 +775,11 @@
       "title": "Data Scrollytelling",
       "url": "https://yadav-aayansh.github.io/scrollytelling/",
       "description": "Uploads data to automatically generate insights and narrate them as visual scrolly-telling narratives.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/yadav-aayansh/scrollytelling/search?q=Straive&type=code",
       "created": "2025-09-22",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/yadav-aayansh/scrollytelling/"
     },
     {
@@ -715,9 +787,9 @@
       "title": "3D Image Generator",
       "url": "https://github.com/Nitin399-maker/3dimagegen",
       "description": "Generate 3D visual models from sketches. Useful for engineering, product design, science and education.",
+      "reviewed": true,
       "created": "2025-09-19",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/Nitin399-maker/3dimagegen/"
     },
     {
@@ -725,9 +797,11 @@
       "title": "Policy as Code",
       "url": "https://sanand0.github.io/policyascode/",
       "description": "Extract and consolidate atomic rules from policy documents. Apply them, making policies actionable.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/policyascode/search?q=Straive&type=code",
       "created": "2025-09-08",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/policyascode/"
     },
     {
@@ -735,9 +809,9 @@
       "title": "AI Design Studio",
       "url": "https://nitin399-maker.github.io/aistudio/",
       "description": "Uses LLMs to improve and convert images to design 3D objects.",
+      "reviewed": true,
       "created": "2025-09-03",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/Nitin399-maker/aistudio/"
     },
     {
@@ -745,9 +819,9 @@
       "title": "DataGen",
       "url": "https://nitin399-maker.github.io/datagen/",
       "description": "Generate realistic synthetic data using LLMs. Use it to test models and apps, and anonymize demos.",
+      "reviewed": true,
       "created": "2025-08-26",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/datagen/"
     },
     {
@@ -755,9 +829,9 @@
       "title": "SubtitleGen",
       "url": "https://prudhvi1709.github.io/subtitlegen/",
       "description": "A browser-based application that generates accurate video subtitles using AI transcription.",
+      "reviewed": true,
       "created": "2025-08-26",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/subtitlegen/"
     },
     {
@@ -765,9 +839,9 @@
       "title": "3D Objects",
       "url": "https://nitin399-maker.github.io/3dobjectgen/",
       "description": "Creates and edits interactive 3D objects from prompts, useful for quickly prototyping product ideas without full 3D modeling tools.",
+      "reviewed": true,
       "created": "2025-08-17",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/3dobjectgen/"
     },
     {
@@ -775,9 +849,11 @@
       "title": "SchemaForge",
       "url": "https://prudhvi1709.github.io/schemaforge/",
       "description": "Builds draft schemas, PII tags, and ER diagrams from sample data, helping teams start data projects faster with fewer manual steps.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Gramener | https://github.com/prudhvi1709/schemaforge/search?q=Gramener&type=code",
       "created": "2025-08-06",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/schemaforge/"
     },
     {
@@ -785,9 +861,11 @@
       "title": "CyberDetect",
       "url": "https://yadav-aayansh.github.io/cyberdetect/",
       "description": "Analyzes log files and generates detection code for vulnerabilities like SQL injection, path traversal, and bot traffic.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Gramener | https://github.com/yadav-aayansh/cyberdetect/search?q=Gramener&type=code",
       "created": "2025-08-06",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/yadav-aayansh/cyberdetect/"
     },
     {
@@ -795,9 +873,9 @@
       "title": "Carlinirepo Evaluator",
       "url": "https://nitin399-maker.github.io/automate_carlinirepo/",
       "description": "Runs prompt evaluation test suites in a simple UI so teams can compare prompt changes before deploying them.",
+      "reviewed": true,
       "created": "2025-07-27",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/automate_carlinirepo/"
     },
     {
@@ -805,9 +883,11 @@
       "title": "Straive ChatGPT",
       "url": "https://tools.s-anand.net/straiveintelligence/",
       "description": "A bookmarklet that turns ChatGPT into a Straive branded web application. Useful to test new capabilities",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tools/search?q=Straive&type=code",
       "created": "2025-07-21",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tools/"
     },
     {
@@ -815,9 +895,11 @@
       "title": "LLM Daydreams",
       "url": "https://tools.s-anand.net/daydream/",
       "description": "Can LLMs discover truly innovative ideas through daydreaming by combining two concepts in a novel way?",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tools/search?q=Straive&type=code",
       "created": "2025-07-17",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tools/"
     },
     {
@@ -825,9 +907,9 @@
       "title": "Decision Playbook",
       "url": "https://nitin399-maker.github.io/decisionplaybook/",
       "description": "Step-by-step visualizer for exploring decision tree playbooks.",
+      "reviewed": true,
       "created": "2025-06-25",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/decisionplaybook/"
     },
     {
@@ -835,9 +917,9 @@
       "title": "Document Compliance Analyzer",
       "url": "https://nitin399-maker.github.io/pdfext/",
       "description": "Checks uploaded PDFs against custom compliance queries via OpenRouter.",
+      "reviewed": true,
       "created": "2025-06-25",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/pdfext/"
     },
     {
@@ -845,9 +927,9 @@
       "title": "LinkedIn Apply Bot",
       "url": "https://prudhvi1709.github.io/linkedinapply/",
       "description": "Bookmarklet automating LinkedIn 'Easy Apply' with live progress tracking.",
+      "reviewed": true,
       "created": "2025-06-18",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/linkedinapply/"
     },
     {
@@ -855,9 +937,9 @@
       "title": "BSToast",
       "url": "https://prudhvi1709.github.io/bstoast/",
       "description": "Tiny library offering Bootstrap toast notifications as a modern alert replacement.",
+      "reviewed": true,
       "created": "2025-06-17",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/bstoast/"
     },
     {
@@ -865,9 +947,9 @@
       "title": "Decision Tree Builder",
       "url": "https://prudhvi1709.github.io/decisiontreegen/",
       "description": "Interactive tool to build and visualize decision trees in the browser.",
+      "reviewed": true,
       "created": "2025-06-16",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/decisiontreegen/"
     },
     {
@@ -875,9 +957,9 @@
       "title": "AI Industry Use Cases",
       "url": "https://sanand0.github.io/aislides/",
       "description": "Auto-generated slideshows for LLM use cases in specific industries. Useful as backgrounds for talks and events",
+      "reviewed": true,
       "created": "2025-06-16",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/aislides/"
     },
     {
@@ -885,9 +967,9 @@
       "title": "LLM Word Predictor",
       "url": "https://nitin399-maker.github.io/LLM-FILL/",
       "description": "Demonstrates language model fill-in-the-blank predictions with probabilities.",
+      "reviewed": true,
       "created": "2025-06-12",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/LLM-FILL/"
     },
     {
@@ -895,9 +977,11 @@
       "title": "Sentiment Analyzer",
       "url": "https://prudhvi1709.github.io/sentiment-analyzer/",
       "description": "Browser-based tool for sentiment and emotion analysis with charts.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/prudhvi1709/sentiment-analyzer/search?q=Straive&type=code",
       "created": "2025-06-11",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/sentiment-analyzer/"
     },
     {
@@ -905,9 +989,11 @@
       "title": "Data Quality Analyzer",
       "url": "https://krishna-gramener.github.io/data-quality-analyzer/",
       "description": "Finds data issues in spreadsheets and suggests fixes, helping analysts clean datasets faster before reporting or modeling.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/krishna-gramener/data-quality-analyzer/search?q=Straive&type=code",
       "created": "2025-06-10",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/data-quality-analyzer/"
     },
     {
@@ -915,9 +1001,11 @@
       "title": "DTGen",
       "url": "https://prudhvi1709.github.io/dtgen/",
       "description": "AI-assisted decision tree generator with advanced tree editing features.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/prudhvi1709/dtgen/search?q=Straive&type=code",
       "created": "2025-06-06",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/dtgen/"
     },
     {
@@ -925,9 +1013,11 @@
       "title": "AddNotes Supabase",
       "url": "https://krishna-gramener.github.io/addnotes-supabase/",
       "description": "Real-time notes app using Supabase auth and database.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Gramener | https://github.com/krishna-gramener/addnotes-supabase/search?q=Gramener&type=code",
       "created": "2025-06-05",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/addnotes-supabase/"
     },
     {
@@ -935,9 +1025,9 @@
       "title": "Model Discipline",
       "url": "https://prudhvi1709.github.io/model-discipline/",
       "description": "Benchmarks instruction-following compliance of LLMs across providers.",
+      "reviewed": true,
       "created": "2025-06-04",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/model-discipline/"
     },
     {
@@ -945,9 +1035,9 @@
       "title": "MTEB Eval Dashboard",
       "url": "https://prudhvi1709.github.io/mtebeval/",
       "description": "Makes embedding benchmark scores easy to compare, helping teams pick models that balance quality, speed, and cost.",
+      "reviewed": true,
       "created": "2025-06-04",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/mtebeval/"
     },
     {
@@ -955,9 +1045,11 @@
       "title": "Google Suggest Trends",
       "url": "https://tools.s-anand.net/googlesuggest/",
       "description": "Explore how the top suggestions from Google vary across regions and what is unusual about each country's preferences",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tools/search?q=Straive&type=code",
       "created": "2025-06-03",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tools/"
     },
     {
@@ -965,9 +1057,11 @@
       "title": "Personagen",
       "url": "https://nitin399-maker.github.io/personagen/",
       "description": "Generates synthetic audience based on profiles to test marketing campaigns and run surveys.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/nitin399-maker/personagen/search?q=Straive&type=code",
       "created": "2025-05-28",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/nitin399-maker/personagen/"
     },
     {
@@ -975,9 +1069,11 @@
       "title": "Topic Trends",
       "url": "https://sanand0.github.io/topictrends/",
       "description": "Tracks trends in arXiv paper topics over time using LLMs.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/topictrends/search?q=Straive&type=code",
       "created": "2025-05-28",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/topictrends/"
     },
     {
@@ -985,9 +1081,11 @@
       "title": "PPT Generator",
       "url": "https://krishna-gramener.github.io/ppt-generator/",
       "description": "Creates polished presentations from documents using AI-powered layouts.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/krishna-gramener/ppt-generator/search?q=Straive&type=code",
       "created": "2025-05-23",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/ppt-generator/"
     },
     {
@@ -995,9 +1093,9 @@
       "title": "Personalized Decision Assistant",
       "url": "https://krishna-gramener.github.io/decision-assistant/",
       "description": "Offers a multi-LLM conversational assistant with data and mind-map visualizations to guide strategic decision-making, reducing cognitive load on business leaders.",
+      "reviewed": true,
       "created": "2025-05-22",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/decision-assistant/"
     },
     {
@@ -1005,9 +1103,11 @@
       "title": "GitHub summary",
       "url": "https://tools.s-anand.net/githubsummary/",
       "description": "Get an in-depth understanding of a developer's activity over any time period. Learn about them and their work",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tools/search?q=Straive&type=code",
       "created": "2025-05-22",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tools/"
     },
     {
@@ -1015,9 +1115,11 @@
       "title": "API Agent",
       "url": "https://sanand0.github.io/apiagent/",
       "description": "Lets anyone ask API questions in plain language and get live results, reducing the need for custom integration code.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/apiagent/search?q=Straive&type=code",
       "created": "2025-05-21",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/apiagent/"
     },
     {
@@ -1026,18 +1128,22 @@
       "url": "https://mail.google.com/chat/u/2/#chat/dm/_MyXL8AAAAE",
       "description": "Lets teams attach a dataset in Google Chat and ask questions in plain language for quick, shareable answers.",
       "repo": "https://github.com/sanand0/google-datachat/",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/google-datachat/search?q=Straive&type=code",
       "created": "2025-05-20",
-      "license": "MIT",
-      "unreviewed": false
+      "license": "MIT"
     },
     {
       "icon": "bi-microphone",
       "title": "Podcastgen",
       "url": "https://tools.s-anand.net/podcast/",
       "description": "Generates podcast transcripts and audio from any document or content using LLMs.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/tools/search?q=Straive&type=code",
       "created": "2025-05-20",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/tools/"
     },
     {
@@ -1046,18 +1152,22 @@
       "url": "https://sanand0.github.io/promptevals/",
       "description": "Tests prompts automatically, checks output quality, and suggests revisions so teams can improve prompts faster.",
       "repo": "https://github.com/sanand0/promptevals/",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/promptevals/search?q=Straive&type=code",
       "created": "2025-05-16",
-      "license": "MIT",
-      "unreviewed": false
+      "license": "MIT"
     },
     {
       "icon": "bi-chat-left-dots",
       "title": "DataChat",
       "url": "https://prudhvi1709.github.io/datachat-llmf/",
       "description": "Chat with your tabular data in plain language to get summaries, trends, and quick answers without writing SQL.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/prudhvi1709/datachat-llmf/search?q=Straive&type=code",
       "created": "2025-05-15",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/datachat-llmf/"
     },
     {
@@ -1065,9 +1175,11 @@
       "title": "Hypothesis Forge",
       "url": "https://prudhvi1709.github.io/hypoforge-llmf/",
       "description": "Suggests testable hypotheses from your dataset and runs statistical checks, helping teams prioritize ideas backed by evidence.",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/prudhvi1709/hypoforge-llmf/search?q=Straive&type=code",
       "created": "2025-05-15",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/hypoforge-llmf/"
     },
     {
@@ -1075,9 +1187,9 @@
       "title": "Entity Extractor",
       "url": "https://llmentityextractor.sanand.workers.dev/",
       "description": "Extracts entities from any document or content using LLMs.",
+      "reviewed": true,
       "created": "2025-05-14",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/llmentityextractor/"
     },
     {
@@ -1085,9 +1197,9 @@
       "title": "AEvolution",
       "url": "https://krishna-gramener.github.io/adverse-events/",
       "description": "Scans medical documents for possible adverse events and related drugs, helping safety teams triage cases faster.",
+      "reviewed": true,
       "created": "2025-05-13",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/adverse-events/"
     },
     {
@@ -1095,9 +1207,9 @@
       "title": "Singapore Traffic Dashboard",
       "url": "https://prudhvi1709.github.io/sgtraffic/",
       "description": "Monitors traffic patterns and anomalies across camera feeds so city teams can respond faster to congestion hotspots.",
+      "reviewed": true,
       "created": "2025-05-07",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/sgtraffic/"
     },
     {
@@ -1105,9 +1217,9 @@
       "title": "Hospital Video Analytics",
       "url": "https://prudhvi1709.github.io/videoalert/",
       "description": "Watches hospital video streams for unusual events and raises alerts, helping staff respond sooner to safety incidents.",
+      "reviewed": true,
       "created": "2025-05-07",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/prudhvi1709/videoalert/"
     },
     {
@@ -1115,9 +1227,9 @@
       "title": "GeoFinder",
       "url": "https://krishna-gramener.github.io/geofinder/",
       "description": "Enables natural-language geographic queries with interactive map views, helping executives visualize location-based data and make informed decisions on markets, logistics, or site planning.",
+      "reviewed": true,
       "created": "2025-05-05",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/geofinder/"
     },
     {
@@ -1125,9 +1237,9 @@
       "title": "AI Pipe",
       "url": "https://aipipe.org/",
       "description": "Builds AI workflows visually so teams can prototype and run LLM automations without heavy backend setup.",
+      "reviewed": true,
       "created": "2025-04-16",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/aipipe/"
     },
     {
@@ -1135,9 +1247,9 @@
       "title": "PDF Text Comparison",
       "url": "https://krishna-gramener.github.io/pdf-content-comparison/",
       "description": "Provides side-by-side text comparison of two PDFs, quickly identifying content differences to streamline contract review, regulatory compliance checks, or editorial workflows.",
+      "reviewed": true,
       "created": "2025-04-10",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/pdf-content-comparison/"
     },
     {
@@ -1145,9 +1257,9 @@
       "title": "Video Chat",
       "url": "https://krishna-gramener.github.io/clinical-videochat/",
       "description": "Streamlines extraction of key insights from lengthy video transcripts via a conversational interface, enabling rapid retrieval of tutorial highlights or expert insights without manual review.",
+      "reviewed": true,
       "created": "2025-03-12",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/clinical-videochat/"
     },
     {
@@ -1155,9 +1267,9 @@
       "title": "K12 Video Analysis",
       "url": "https://krishna-gramener.github.io/k12-videoanalysis/",
       "description": "Creates personalized video highlights for students so they can review key moments faster and stay engaged.",
+      "reviewed": true,
       "created": "2025-03-06",
       "license": "MIT",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/k12-videoanalysis/"
     },
     {
@@ -1165,9 +1277,9 @@
       "title": "Ratings Critical Data",
       "url": "https://krishna-gramener.github.io/ratings-critical-data/",
       "description": "Automates extraction and analysis of key metrics from PDF reports, delivering structured insights and evidence to support governance, sustainability, or performance assessments.",
+      "reviewed": true,
       "created": "2025-01-30",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/krishna-gramener/ratings-critical-data/"
     },
     {
@@ -1175,9 +1287,11 @@
       "title": "Prompt-to-plot",
       "url": "https://sanand0.github.io/talks/2025-06-28-prompt-to-plot/#14",
       "description": "A series of visual data analyses created by designers (who don't know how to code) purely using LLM coding agents",
+      "reviewed": true,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/talks/search?q=Straive&type=code",
       "created": "2011-02-11",
       "license": "",
-      "unreviewed": false,
       "repo": "https://github.com/sanand0/talks/"
     },
     {
@@ -1185,9 +1299,9 @@
       "title": "WBD Digital Intern Marketplace",
       "url": "https://digital-intern-marketplace.straivedemo.com/",
       "description": "Marketplace of role-specific AI interns for Warner Bros. Discovery teams, designed to launch domain-focused assistants for internal workflows.",
+      "reviewed": true,
       "created": null,
       "license": "",
-      "unreviewed": false,
       "repo": ""
     },
     {
@@ -1195,9 +1309,9 @@
       "title": "AI Video Intelligence",
       "url": "https://event-buzz-intern.straivedemo.com/",
       "description": "Sports video intelligence demo that searches match footage with natural language and auto-assembles social-ready highlight reels in under a minute.",
+      "reviewed": true,
       "created": null,
       "license": "",
-      "unreviewed": false,
       "repo": ""
     }
   ]
