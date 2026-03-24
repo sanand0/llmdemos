@@ -49,6 +49,38 @@ def write_csv(dst: Path, demos: list[dict[str, Any]], columns: list[str]) -> Non
             writer.writerow({col: as_cell(demo.get(col)) for col in columns})
 
 
+def build_open_demos(demos: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    grouped: dict[str, dict[str, Any]] = {}
+    for demo in demos:
+        if not isinstance(demo, dict) or demo.get("reviewed") is not True:
+            continue
+        repo = demo.get("repo")
+        if not repo:
+            continue
+
+        created = demo.get("created")
+        entry = grouped.setdefault(
+            repo,
+            {
+                "repo": repo,
+                "license": "",
+                "created": created,
+                "title": demo.get("title"),
+                "branded": False,
+            },
+        )
+        if demo.get("license") == "MIT":
+            entry["license"] = "MIT"
+        if demo.get("branded") is True:
+            entry["branded"] = True
+        if created and (not entry["created"] or created < entry["created"]):
+            entry["created"] = created
+            entry["title"] = demo.get("title")
+
+    open_demos = [entry for entry in grouped.values() if entry["license"] == "MIT"]
+    return sorted(open_demos, key=lambda demo: (demo.get("created") or "", demo["repo"]), reverse=True)
+
+
 def main() -> int:
     src = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("config.json")
     dst = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("llmdemos.csv")
@@ -63,11 +95,7 @@ def main() -> int:
     write_csv(dst, demos, columns)
 
     print(f"Wrote {len(demos)} demos to {dst}")
-    open_demos = [
-        demo
-        for demo in demos
-        if isinstance(demo, dict) and demo.get("license") == "MIT" and demo.get("reviewed") is True
-    ]
+    open_demos = build_open_demos(demos)
     open_columns = ["repo", "license", "created", "title", "branded"]
     write_csv(open_dst, open_demos, open_columns)
     print(f"Wrote {len(open_demos)} open demos to {open_dst}")

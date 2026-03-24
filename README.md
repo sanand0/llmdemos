@@ -19,6 +19,8 @@ To add a demo, update [`config.json`](config.json) and commit the changes.
 git add .
 git commit -m "Add new demo"
 git push
+# Optional: gcloud auth login $EMAIL --brief
+just build upload
 ```
 
 See [`AGENTS.md`](AGENTS.md) for the helper workflow and repo discovery commands.
