@@ -1,6 +1,56 @@
 {
   "demos": [
     {
+      "icon": "bi-currency-dollar",
+      "title": "Taco Bell Pricing Elasticity Studio",
+      "url": "https://ritesh17rb.github.io/pricing-elasticity/",
+      "description": "Interactive operating model for testing Taco Bell item-price changes against demand, channel mix, sales, and margin before rolling them across the menu.",
+      "reviewed": false,
+      "created": "2026-03-31",
+      "license": "MIT",
+      "repo": "https://github.com/ritesh17rb/pricing-elasticity/"
+    },
+    {
+      "icon": "bi-mortarboard",
+      "title": "When AI Learned to Prove",
+      "url": "https://pavankumart18.github.io/lean-with-claude/",
+      "description": "Experiment report showing how Claude Code and Lean 4 were used to machine-check 22 theorems, including a formal proof of IMO 1977 Problem 5.",
+      "reviewed": false,
+      "created": "2026-03-26",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/lean-with-claude/"
+    },
+    {
+      "icon": "bi-plug",
+      "title": "From Zero to MATLAB: When an AI Learned to Engineer",
+      "url": "https://pavankumart18.github.io/matlab-mcp/",
+      "description": "Build-log narrative of wiring Claude Desktop to MATLAB through MCP, debugging the setup, and then using the bridge to run five progressively richer simulations.",
+      "reviewed": false,
+      "created": "2026-03-25",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/matlab-mcp/"
+    },
+    {
+      "icon": "bi-geo-alt",
+      "title": "Lake Monitor",
+      "url": "https://mynkpdr.github.io/samgeo3-demo/",
+      "description": "Geospatial viewer that overlays historical lake imagery with SAM3 water segmentation so users can compare temporal change and estimated surface area.",
+      "reviewed": false,
+      "created": "2026-03-25",
+      "license": "MIT",
+      "repo": "https://github.com/mynkpdr/samgeo3-demo/"
+    },
+    {
+      "icon": "bi-file-bar-graph",
+      "title": "CSV Data Explorer",
+      "url": "https://ritesh17rb.github.io/csv-visualisation/",
+      "description": "Projects CSV rows into a similarity map with UMAP so users can browse large tabular datasets as clusters, grids, lists, or tables.",
+      "reviewed": false,
+      "created": "2026-03-24",
+      "license": "MIT",
+      "repo": "https://github.com/ritesh17rb/csv-visualisation/"
+    },
+    {
       "icon": "bi-controller",
       "title": "Floor Is Lava",
       "url": "https://ritesh17rb.github.io/floor-is-lava/",
