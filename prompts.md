@@ -23,7 +23,11 @@ pythonicvarun
 Add a "reviewed": false field to them to indicate that human review is needed.
 Use the public access GITHUB_TOKEN in .env if you need.
 
-<!-- codex resume 019df6c0-d0e8-7351-bc0f-2de54ad6cf46 --yolo -->
+---
+
+Create an AGENTS.md that includes documentation on how to add new demos.
+
+<!-- codex resume 019df6c0-d0e8-7351-bc0f-2de54ad6cf46 -->
 
 ## 2 Apr 2026
 
