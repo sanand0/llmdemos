@@ -1,5 +1,30 @@
 # Prompts
 
+<!--
+
+cd /home/sanand/code/llmdemos
+dev.sh
+codex
+
+-->
+
+# 05 May 2026
+
+Scan the public GitHub repositories of:
+
+mynkpdr
+pavankumart18
+prudhvi1709
+ritesh17rb
+pythonicvarun
+
+... and add any new GOOD repos having GitHub Pages created on/after the latest "created" in config.json.
+
+Add a "reviewed": false field to them to indicate that human review is needed.
+Use the public access GITHUB_TOKEN in .env if you need.
+
+<!-- codex resume 019df6c0-d0e8-7351-bc0f-2de54ad6cf46 --yolo -->
+
 ## 2 Apr 2026
 
 Scan the public GitHub repositories of:

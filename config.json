@@ -1,6 +1,118 @@
 {
   "demos": [
     {
+      "icon": "bi-newspaper",
+      "title": "Statoistics Data Journalism Gallery",
+      "url": "https://mynkpdr.github.io/journalists/statnostics",
+      "description": "Gallery of AI-assisted data journalism cards for Indian newsroom stories, with MOSPI, UN, and survey-driven explainers plus verification workflow support.",
+      "reviewed": false,
+      "created": "2026-05-04",
+      "license": "",
+      "repo": "https://github.com/mynkpdr/journalists/"
+    },
+    {
+      "icon": "bi-bezier2",
+      "title": "Hypothesis Forge",
+      "url": "https://ritesh17rb.github.io/hypothesis/",
+      "description": "AI-assisted data analysis workspace that generates hypotheses, tests them statistically against uploaded datasets, and organizes findings into explainable artifacts.",
+      "reviewed": false,
+      "created": "2026-04-29",
+      "license": "MIT",
+      "repo": "https://github.com/ritesh17rb/hypothesis/"
+    },
+    {
+      "icon": "bi-mic",
+      "title": "LLM Audio Transcription Benchmark",
+      "url": "https://pythonicvarun.github.io/llm-audio-transcription-benchmark/",
+      "description": "Interactive benchmark report comparing multi-model speech transcription quality, latency, evaluator behavior, and model limitations across audio variations.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/pythonicvarun/llm-audio-transcription-benchmark/search?q=Straive&type=code",
+      "created": "2026-04-27",
+      "license": "",
+      "repo": "https://github.com/pythonicvarun/llm-audio-transcription-benchmark/"
+    },
+    {
+      "icon": "bi-cloud",
+      "title": "D3 Wordcloud",
+      "url": "https://mynkpdr.github.io/d3-wordcloud/",
+      "description": "Interactive demo and API guide for a modern D3 word-cloud layout with async placement, incremental streaming, bitmap collision, and SVG rendering helpers.",
+      "reviewed": false,
+      "created": "2026-04-25",
+      "license": "MIT",
+      "repo": "https://github.com/mynkpdr/d3-wordcloud/"
+    },
+    {
+      "icon": "bi-window-stack",
+      "title": "ParallelEdit",
+      "url": "https://pavankumart18.github.io/parallel-editing/",
+      "description": "Collaborative editing prototype where humans and LLM agents work on shared documents with live activity, manual instructions, and edit explanations.",
+      "reviewed": false,
+      "created": "2026-04-22",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/parallel-editing/"
+    },
+    {
+      "icon": "bi-cpu",
+      "title": "LeWM World Model Demos",
+      "url": "https://pavankumart18.github.io/lewm-demos/",
+      "description": "Exploration report showing LeWM world-model demos for visual planning, physics anomaly detection, and latent-space probing on robot-control tasks.",
+      "reviewed": false,
+      "created": "2026-04-22",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/lewm-demos/"
+    },
+    {
+      "icon": "bi-music-note-beamed",
+      "title": "SonicLens",
+      "url": "https://mynkpdr.github.io/songs-similarity-demo/",
+      "description": "Audio similarity dashboard that trims tracks, separates stems, generates Gemini embeddings, and lets users explore song clusters, comparisons, and heatmaps.",
+      "reviewed": false,
+      "created": "2026-04-22",
+      "license": "MIT",
+      "repo": "https://github.com/mynkpdr/songs-similarity-demo/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "SNHU Research Map",
+      "url": "https://ritesh17rb.github.io/snhu-research/",
+      "description": "UMAP-based research intelligence demo that maps SNHU publications against OpenAlex data and highlights field evolution and strategy opportunities.",
+      "reviewed": false,
+      "created": "2026-04-14",
+      "license": "",
+      "repo": "https://github.com/ritesh17rb/snhu-research/"
+    },
+    {
+      "icon": "bi-bar-chart-line",
+      "title": "DataMind Synthetic Demo",
+      "url": "https://mynkpdr.github.io/datamind-synthetic-demo/",
+      "description": "Synthetic education analytics portal with data stories, dashboards, leaderboards, intervention triage views, and an executive briefing deck.",
+      "reviewed": false,
+      "created": "2026-04-13",
+      "license": "MIT",
+      "repo": "https://github.com/mynkpdr/datamind-synthetic-demo/"
+    },
+    {
+      "icon": "bi-file-earmark-text",
+      "title": "Financial Document OCR Benchmark",
+      "url": "https://pavankumart18.github.io/ocr-benchmark-analysis/",
+      "description": "Data story benchmarking local and LLM-based OCR models on financial documents with multi-judge scoring, category breakdowns, and cost-quality analysis.",
+      "reviewed": false,
+      "created": "2026-04-09",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/ocr-benchmark-analysis/"
+    },
+    {
+      "icon": "bi-currency-dollar",
+      "title": "Pizza Hut Pricing Elasticity Studio",
+      "url": "https://ritesh17rb.github.io/pizzahut_price_elasticity_studio/",
+      "description": "QSR pricing simulator for exploring menu price changes, customer segments, channel migration, churn elasticity, revenue, orders, and contribution margin.",
+      "reviewed": false,
+      "created": "2026-04-05",
+      "license": "MIT",
+      "repo": "https://github.com/ritesh17rb/pizzahut_price_elasticity_studio/"
+    },
+    {
       "icon": "bi-currency-dollar",
       "title": "Taco Bell Pricing Elasticity Studio",
       "url": "https://ritesh17rb.github.io/pricing-elasticity/",
