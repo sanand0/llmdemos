@@ -27,7 +27,7 @@ See [`AGENTS.md`](AGENTS.md) for the helper workflow and repo discovery commands
 
 <!--
 
-Prompt to use with Codex when refreshing the demo list (e.g. with Codex - GPT 5.4 medium):
+Prompt to use with Codex when refreshing the demo list (e.g. with Codex - GPT 5.5 medium):
 
 ```text
 Scan the public GitHub repositories of:
@@ -47,5 +47,6 @@ Add a "branded": true if any repo's contents include "Straive", "Gramener", "Lea
 Use the public access GITHUB_TOKEN in .env if you need.
 ```
 
-codex resume 019d1dbd-de04-7681-9bf5-0479af7fe9ac
+- CREATION ON: codex resume 019d1dbd-de04-7681-9bf5-0479af7fe9ac
+- 28 May 2026: codex resume 019e6bf3-b04a-7322-beeb-9b1b7b76badf
 -->

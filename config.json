@@ -1,6 +1,86 @@
 {
   "demos": [
     {
+      "icon": "bi-diagram-3",
+      "title": "HCP Network Intelligence Workbench",
+      "url": "https://pavankumart18.github.io/hcp-network-intelligence-workbench/",
+      "description": "Healthcare network launch-planning workbench for secondary stroke prevention with IDN archetypes, facility mapping, and assistant-guided account strategy.",
+      "reviewed": false,
+      "created": "2026-05-26",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/hcp-network-intelligence-workbench/"
+    },
+    {
+      "icon": "bi-shield-exclamation",
+      "title": "JavaScript Supply-Chain Exposure Story",
+      "url": "https://mynkpdr.github.io/supply-chain-attack/",
+      "description": "Interactive security data story mapping JavaScript supply-chain attack windows across package versions, advisory evidence, lifecycle scripts, and registry-source gaps.",
+      "reviewed": false,
+      "created": "2026-05-25",
+      "license": "MIT",
+      "repo": "https://github.com/mynkpdr/supply-chain-attack/"
+    },
+    {
+      "icon": "bi-mortarboard",
+      "title": "Clearing Triage",
+      "url": "https://pavankumart18.github.io/clearing-triage/",
+      "description": "UK university clearing triage simulation that pairs live vacancy search with AI agent reasoning, escalation handling, and end-of-day audit metrics.",
+      "reviewed": false,
+      "created": "2026-05-21",
+      "license": "MIT",
+      "repo": "https://github.com/pavankumart18/clearing-triage/"
+    },
+    {
+      "icon": "bi-bar-chart-steps",
+      "title": "FrontierScience Capability Landscape",
+      "url": "https://pavankumart18.github.io/frontierscience-viz/",
+      "description": "Research-capability data story comparing AI and expert human performance across science exams, coding, math, protein structure, and open-ended research tasks.",
+      "reviewed": false,
+      "created": "2026-05-17",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/frontierscience-viz/"
+    },
+    {
+      "icon": "bi-tools",
+      "title": "Motion.dev MCP Benchmark",
+      "url": "https://pythonicvarun.github.io/motion-dev-mcp-poc/",
+      "description": "Field-study report comparing how coding agents use Motion.dev and browser MCP tools during iterative portfolio-build prompts and corrective feedback loops.",
+      "reviewed": false,
+      "created": "2026-05-15",
+      "license": "MIT",
+      "repo": "https://github.com/PythonicVarun/motion-dev-mcp-poc/"
+    },
+    {
+      "icon": "bi-clipboard-data",
+      "title": "Title IX Compliance Command Center",
+      "url": "https://pythonicvarun.github.io/title-ix-compliance-dashboard/",
+      "description": "Synthetic athletics compliance dashboard suite covering proportionality, aid, treatment equity, revenue sharing, NIL review, wellness, and predictive roster planning.",
+      "reviewed": false,
+      "created": "2026-05-08",
+      "license": "",
+      "repo": "https://github.com/PythonicVarun/title-ix-compliance-dashboard/"
+    },
+    {
+      "icon": "bi-radioactive",
+      "title": "WeldAssign AI",
+      "url": "https://pavankumart18.github.io/wps-nuclear-demo/",
+      "description": "Nuclear welding decision-support demo that structures WPS extraction, job validation, welder qualification matching, review exceptions, and execution tickets.",
+      "reviewed": false,
+      "created": "2026-05-07",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/wps-nuclear-demo/"
+    },
+    {
+      "icon": "bi-map",
+      "title": "Live embedumap",
+      "url": "https://mynkpdr.github.io/umaps/liveumap.html",
+      "description": "Browser-native semantic map that turns live Google Sheet or CSV rows into UMAP clusters with Gemini embeddings, local preview vectors, and timeline controls.",
+      "reviewed": false,
+      "created": "2026-05-04",
+      "license": "",
+      "repo": "https://github.com/mynkpdr/umaps/"
+    },
+    {
       "icon": "bi-newspaper",
       "title": "Statoistics Data Journalism Gallery",
       "url": "https://mynkpdr.github.io/journalists/statnostics",
