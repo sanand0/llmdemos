@@ -31,14 +31,15 @@ Prompt to use with Codex when refreshing the demo list (e.g. with Codex - GPT 5.
 
 ```text
 Scan the public GitHub repositories of:
-krishna-gramener
-prudhvi1709
-nitin399-maker
+zeldian
 pavankumart18
 pythonicvarun
+mynkpdr
+prudhvi1709
+krishna-gramener
+nitin399-maker
 ritesh17rb
 yadav-aayansh
-mynkpdr
 
 ... and add any GOOD repos having GitHub Pages created on/after the latest "created" in config.json.
 

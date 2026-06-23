@@ -1,6 +1,96 @@
 {
   "demos": [
     {
+      "icon": "bi-journal-text",
+      "title": "Varun Research",
+      "url": "http://research.pythonicvarun.me/",
+      "description": "Research log collecting published LLM experiments and reports with activity summaries, filtering, and links back to the underlying repositories.",
+      "reviewed": false,
+      "created": "2026-06-17",
+      "license": "MIT",
+      "repo": "https://github.com/PythonicVarun/research/"
+    },
+    {
+      "icon": "bi-arrow-repeat",
+      "title": "LLM Nomic Simulation",
+      "url": "https://zeldian.github.io/Nomic-llm/",
+      "description": "Case-study report analyzing a manually run Nomic game where LLM agents amended scoring rules, voted strategically, and produced a final-turn tie.",
+      "reviewed": false,
+      "created": "2026-06-10",
+      "license": "",
+      "repo": "https://github.com/Zeldian/Nomic-llm/"
+    },
+    {
+      "icon": "bi-diagram-3",
+      "title": "AI Video Intelligence Knowledge Graph",
+      "url": "https://prudhvi1709.github.io/ai-video-intel/",
+      "description": "Interactive knowledge graph explaining an AI social-listening-to-video-publishing workflow with guided tour, searchable nodes, and evidence notes.",
+      "reviewed": false,
+      "created": "2026-06-09",
+      "license": "",
+      "repo": "https://github.com/prudhvi1709/ai-video-intel/"
+    },
+    {
+      "icon": "bi-film",
+      "title": "Movie Analysis",
+      "url": "https://prudhvi1709.github.io/movie-analysis/",
+      "description": "Film strategy analysis hub linking data-backed release timing, promotion planning, social-buzz, and audience-reaction reports across movie titles.",
+      "reviewed": false,
+      "created": "2026-06-05",
+      "license": "MIT",
+      "repo": "https://github.com/prudhvi1709/movie-analysis/"
+    },
+    {
+      "icon": "bi-file-earmark-pdf",
+      "title": "AI InDesign Journey",
+      "url": "https://pavankumart18.github.io/indesign-journey/",
+      "description": "Scrollytelling report comparing AI automation tracks for rebuilding OpenStax textbook pages in Adobe InDesign with metrics, failures, and exported output.",
+      "reviewed": false,
+      "created": "2026-06-04",
+      "license": "",
+      "repo": "https://github.com/pavankumart18/indesign-journey/"
+    },
+    {
+      "icon": "bi-trophy",
+      "title": "LLM Chess Evaluation Harness",
+      "url": "https://pythonicvarun.github.io/llm-chess-evaluation-harness/",
+      "description": "Interactive chess benchmark dashboard comparing LLM games against Stockfish by model, reasoning effort, ELO level, and replayable match details.",
+      "reviewed": false,
+      "created": "2026-06-03",
+      "license": "MIT",
+      "repo": "https://github.com/PythonicVarun/llm-chess-evaluation-harness/"
+    },
+    {
+      "icon": "bi-bezier",
+      "title": "Agentic Workflow Visualizer",
+      "url": "https://pythonicvarun.github.io/agentic-workflow-visualizer/",
+      "description": "Browser-based Codex session visualizer that replays agent logs as workflow graphs with tool activity, summaries, timing, and downloadable traces.",
+      "reviewed": false,
+      "created": "2026-06-01",
+      "license": "",
+      "repo": "https://github.com/PythonicVarun/agentic-workflow-visualizer/"
+    },
+    {
+      "icon": "bi-megaphone",
+      "title": "Romanchakam First-Look Reception",
+      "url": "https://prudhvi1709.github.io/romanchakam-analysis/",
+      "description": "Film-launch reception report combining social engagement, sentiment themes, Google Trends geography, loudest voices, and recommended promotion moves.",
+      "reviewed": false,
+      "created": "2026-05-31",
+      "license": "MIT",
+      "repo": "https://github.com/prudhvi1709/romanchakam-analysis/"
+    },
+    {
+      "icon": "bi-cpu",
+      "title": "LLM Circuit Builder",
+      "url": "https://pythonicvarun.github.io/llm-circuit-builder/",
+      "description": "Browser playground where an OpenAI-compatible LLM generates Wokwi circuit files and firmware, then runs the simulated project with editable files.",
+      "reviewed": false,
+      "created": "2026-05-28",
+      "license": "MIT",
+      "repo": "https://github.com/PythonicVarun/llm-circuit-builder/"
+    },
+    {
       "icon": "bi-diagram-3",
       "title": "HCP Network Intelligence Workbench",
       "url": "https://pavankumart18.github.io/hcp-network-intelligence-workbench/",
