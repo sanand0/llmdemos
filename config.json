@@ -1,6 +1,26 @@
 {
   "demos": [
     {
+      "icon": "bi-shield-check",
+      "title": "Jev's Keep",
+      "url": "https://eshwarpotturi.github.io/soc-analyst-jev/",
+      "description": "Replay an LLM-powered security proxy run, showing blocked attacks, allowed requests, and request analytics.",
+      "reviewed": false,
+      "created": "2026-09-29",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/soc-analyst-jev/"
+    },
+    {
+      "icon": "bi-eye",
+      "title": "LLM Counting Benchmark",
+      "url": "https://hrmiitm.github.io/llm-counting-benchmark/",
+      "description": "Compare vision models on image-by-image object counting with a shared set of test images.",
+      "reviewed": false,
+      "created": "2026-09-30",
+      "license": "",
+      "repo": "https://github.com/hrmiitm/llm-counting-benchmark/"
+    },
+    {
       "icon": "bi-journal-text",
       "title": "Varun Research",
       "url": "http://research.pythonicvarun.me/",

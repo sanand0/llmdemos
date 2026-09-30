@@ -30,7 +30,13 @@ See [`AGENTS.md`](AGENTS.md) for the helper workflow and repo discovery commands
 Prompt to use with Codex when refreshing the demo list (e.g. with Codex - GPT 5.5 medium):
 
 ```text
-Scan the public GitHub repositories of:
+Scan the public GitHub repositories of the users below that fall within the time period indicated:
+
+25 Sep 2026 - today:
+eshwarpotturi
+hrmiitm
+
+Before 01 Sep 2026:
 zeldian
 pavankumart18
 pythonicvarun

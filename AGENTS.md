@@ -1,7 +1,5 @@
 # Repo Automation
 
-Always prefix shell commands with `rtk`.
-
 Use [`scripts/sync_github_demos.py`](/home/vscode/code/llmdemos/scripts/sync_github_demos.py) for GitHub-backed updates.
 
 ## Requirements
@@ -15,25 +13,25 @@ Update `config.json` with `branded: true` when repo contents mention any of:
 `Straive`, `Gramener`, `Learning Mate`, `Double Line`, `SG Analytics`
 
 ```bash
-rtk uv run scripts/sync_github_demos.py brand-config --write
+uv run scripts/sync_github_demos.py brand-config --write
 ```
 
 List repo details for specific repos:
 
 ```bash
-rtk uv run scripts/sync_github_demos.py repo-info sanand0/tools ritesh17rb/chart-map
+uv run scripts/sync_github_demos.py repo-info sanand0/tools ritesh17rb/chart-map
 ```
 
 Discover GitHub Pages repos for one or more users using the latest `created` date in `config.json` as the default cutoff:
 
 ```bash
-rtk uv run scripts/sync_github_demos.py discover-pages nitin399-maker pavankumart18 ritesh17rb mynkpdr
+uv run scripts/sync_github_demos.py discover-pages nitin399-maker pavankumart18 ritesh17rb mynkpdr
 ```
 
 Use a manual cutoff and include repos already present in `config.json`:
 
 ```bash
-rtk uv run scripts/sync_github_demos.py discover-pages sanand0 --cutoff 2026-03-01 --include-existing
+uv run scripts/sync_github_demos.py discover-pages sanand0 --cutoff 2026-03-01 --include-existing
 ```
 
 ## Adding New Demos
@@ -45,7 +43,7 @@ Most updates start by discovering public GitHub repos with GitHub Pages and then
 Use the latest non-empty `created` value already in `config.json`.
 
 ```bash
-rtk jaq -r '.demos | map(.created) | max' config.json
+jaq -r '.demos | map(.created) | max' config.json
 ```
 
 ### 2. Discover candidate GitHub Pages repos
@@ -53,13 +51,13 @@ rtk jaq -r '.demos | map(.created) | max' config.json
 Run discovery for the requested owners. If `--cutoff` is omitted, the script uses the latest `created` value from `config.json`.
 
 ```bash
-rtk uv run scripts/sync_github_demos.py discover-pages USER1 USER2 USER3
+uv run scripts/sync_github_demos.py discover-pages USER1 USER2 USER3
 ```
 
 Use `--include-existing` only when auditing or refreshing existing entries.
 
 ```bash
-rtk uv run scripts/sync_github_demos.py discover-pages USER1 --cutoff 2026-03-01 --include-existing
+uv run scripts/sync_github_demos.py discover-pages USER1 --cutoff 2026-03-01 --include-existing
 ```
 
 ### 3. Review candidate quality
@@ -77,9 +75,9 @@ Skip candidates that are:
 Useful review commands:
 
 ```bash
-rtk w3m -dump https://OWNER.github.io/REPO/
-rtk curl -Ls https://raw.githubusercontent.com/OWNER/REPO/main/README.md
-rtk uv run scripts/sync_github_demos.py repo-info OWNER/REPO
+w3m -dump https://OWNER.github.io/REPO/
+curl -Ls https://raw.githubusercontent.com/OWNER/REPO/main/README.md
+uv run scripts/sync_github_demos.py repo-info OWNER/REPO
 ```
 
 ### 4. Add entries to `config.json`
@@ -124,9 +122,9 @@ Do not add both `reviewed` and an inverse `unreviewed` field. Use only `reviewed
 After editing `config.json`, run the same steps as `just build`:
 
 ```bash
-rtk uv run scripts/sync_github_demos.py brand-config --write
-rtk bash -lc 'npx -y mustache config.json template.html > index.html'
-rtk uv run scripts/generate_demos_csv.py
+uv run scripts/sync_github_demos.py brand-config --write
+bash -lc 'npx -y mustache config.json template.html > index.html'
+uv run scripts/generate_demos_csv.py
 ```
 
 `scripts/generate_demos_csv.py` writes:
@@ -137,9 +135,9 @@ rtk uv run scripts/generate_demos_csv.py
 ### 6. Validate before finishing
 
 ```bash
-rtk jaq empty config.json
-rtk git diff --check -- config.json
-rtk git diff --stat
+jaq empty config.json
+git diff --check -- config.json
+git diff --stat
 ```
 
 Confirm unrelated local changes are not reverted or mixed into the update.
@@ -152,6 +150,6 @@ Confirm unrelated local changes are not reverted or mixed into the update.
 - After config updates, rebuild generated outputs with:
 
 ```bash
-rtk bash -lc 'npx -y mustache config.json template.html > index.html'
-rtk uv run scripts/generate_demos_csv.py
+bash -lc 'npx -y mustache config.json template.html > index.html'
+uv run scripts/generate_demos_csv.py
 ```

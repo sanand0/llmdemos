@@ -1,5 +1,16 @@
 # Prompts
 
+## Add new demos, 30 Sep 2026
+
+<!--
+cd ~/code/llmdemos/
+dev.sh -- codex --yolo --model gpt-6-luna --config model_reasoning_effort=medium
+-->
+
+Add the following demos:
+https://eshwarpotturi.github.io/soc-analyst-jev/
+https://hrmiitm.github.io/llm-counting-benchmark/
+
 <!--
 
 cd /home/sanand/code/llmdemos
@@ -8,7 +19,7 @@ codex
 
 -->
 
-# 05 May 2026
+## 05 May 2026
 
 Scan the public GitHub repositories of:
 
