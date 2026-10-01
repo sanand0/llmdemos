@@ -1,6 +1,27 @@
 {
   "demos": [
     {
+      "icon": "bi-translate",
+      "title": "Language Drift",
+      "url": "https://eshwarpotturi.github.io/language-drift/",
+      "description": "Explore how five AI assistants change their advice when the same questions are asked in English, Hindi, and Chinese.",
+      "reviewed": false,
+      "branded": true,
+      "created": "2026-09-30",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/language-drift/"
+    },
+    {
+      "icon": "bi-bookshelf",
+      "title": "Bookshelf Benchmark",
+      "url": "https://atharva-729.github.io/bookshelf-benchmark/",
+      "description": "Compare Claude, Gemini, and GPT on identifying books in bookshelf photos, with accuracy heatmaps and examples of missed or misread titles.",
+      "reviewed": false,
+      "created": "2026-09-30",
+      "license": "",
+      "repo": "https://github.com/atharva-729/bookshelf-benchmark/"
+    },
+    {
       "icon": "bi-shield-check",
       "title": "Jev's Keep",
       "url": "https://eshwarpotturi.github.io/soc-analyst-jev/",
