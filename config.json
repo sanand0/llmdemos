@@ -1,6 +1,28 @@
 {
   "demos": [
     {
+      "icon": "bi-file-earmark-bar-graph",
+      "title": "Financial Filing Search Benchmark",
+      "url": "https://jivraj-18.github.io/benchmark-finance-pageindex/",
+      "description": "Compare PageIndex, vector RAG, whole-filing prompts, and agentic search on 30 FinanceBench questions, with accuracy, cost, and step-by-step walkthroughs.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/jivraj-18/benchmark-finance-pageindex/search?q=Straive&type=code",
+      "created": "2026-10-04",
+      "license": "",
+      "repo": "https://github.com/Jivraj-18/benchmark-finance-pageindex/"
+    },
+    {
+      "icon": "bi-chat-left-text",
+      "title": "After Delve",
+      "url": "https://eshwarpotturi.github.io/after-delve/",
+      "description": "Explore successive waves of AI-associated vocabulary across 736,000 arXiv tech abstracts, with animated word rankings and field comparisons.",
+      "reviewed": false,
+      "created": "2026-10-03",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/after-delve/"
+    },
+    {
       "icon": "bi-translate",
       "title": "Language Drift",
       "url": "https://eshwarpotturi.github.io/language-drift/",
@@ -15,7 +37,7 @@
       "icon": "bi-bookshelf",
       "title": "Bookshelf Benchmark",
       "url": "https://atharva-729.github.io/bookshelf-benchmark/",
-      "description": "Compare Claude, Gemini, and GPT on identifying books in bookshelf photos, with accuracy heatmaps and examples of missed or misread titles.",
+      "description": "Compare Claude, Gemini, and GPT on reading six bookshelf photos, with repeat-run accuracy heatmaps, batching experiments, estimated costs, and title-reading errors.",
       "reviewed": false,
       "created": "2026-09-30",
       "license": "",
@@ -35,7 +57,7 @@
       "icon": "bi-eye",
       "title": "LLM Counting Benchmark",
       "url": "https://hrmiitm.github.io/llm-counting-benchmark/",
-      "description": "Compare vision models on image-by-image object counting with a shared set of test images.",
+      "description": "Explore nine vision models counting objects in six images, comparing exact matches, count deviation, stated confidence, and recorded API costs.",
       "reviewed": false,
       "created": "2026-09-30",
       "license": "",

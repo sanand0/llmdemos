@@ -1,5 +1,20 @@
 # Prompts
 
+## Add new demos, 05 Oct 2026
+
+<!--
+cd ~/code/llmdemos/
+dev.sh -- codex --yolo --model gpt-6.1-sol --config model_reasoning_effort=medium
+-->
+
+Add or update content from these demos:
+- ADD: https://eshwarpotturi.github.io/after-delve/
+- ADD: https://jivraj-18.github.io/benchmark-finance-pageindex/
+- UPDATE: https://hrmiitm.github.io/llm-counting-benchmark/
+- UPDATE: https://atharva-729.github.io/bookshelf-benchmark/
+
+<!-- codex resume 01a10ac3-13e1-75d2-98be-f22355446ea5 --yolo -->
+
 ## Add new demos, 01 Oct 2026
 
 <!--
