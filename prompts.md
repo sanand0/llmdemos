@@ -1,5 +1,20 @@
 # Prompts
 
+## Add new demos, 08 Oct 2026
+
+<!--
+cd ~/code/llmdemos/
+dev.sh -- codex --yolo --model gpt-6.1-sol --config model_reasoning_effort=medium
+-->
+
+Add or update content from these demos:
+- https://eshwarpotturi.github.io/rate-call-tracker/
+- https://eshwarpotturi.github.io/ai-whispers/ - A chinese whisper story (think of a business application while describing it)
+- https://jivraj-18.github.io/dream-room-blender/dream_rooms/viewer/ - agents can render 3D quite well now
+- https://hrmiitm.github.io/llm-counting-benchmark/reasoning.html - Replace the existing llm-counting-benchmark demo with this link - and rewrite, factoring in reasoning levels and deep learning models: the highlight is the cost vs quality curve.
+
+<!-- codex resume 01a11a45-2478-7662-a9ee-51a027a206d5 --yolo -->
+
 ## Add new demos, 05 Oct 2026
 
 <!--

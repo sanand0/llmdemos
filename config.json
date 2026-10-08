@@ -1,6 +1,37 @@
 {
   "demos": [
     {
+      "icon": "bi-bank",
+      "title": "Rate Call Tracker",
+      "url": "https://eshwarpotturi.github.io/rate-call-tracker/",
+      "description": "Compare research houses' Fed, ECB, and RBI rate forecasts with actual decisions, tracking accuracy and how early each house anticipated a turn.",
+      "reviewed": false,
+      "branded": true,
+      "created": "2026-10-07",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/rate-call-tracker/"
+    },
+    {
+      "icon": "bi-chat-right-text",
+      "title": "AI Whispers",
+      "url": "https://eshwarpotturi.github.io/ai-whispers/",
+      "description": "Follow a business report through six AI handoffs to a client update, revealing how facts and caveats drift and comparing ways to preserve them.",
+      "reviewed": false,
+      "created": "2026-10-07",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/ai-whispers/"
+    },
+    {
+      "icon": "bi-box",
+      "title": "Dream Room",
+      "url": "https://jivraj-18.github.io/dream-room-blender/dream_rooms/viewer/",
+      "description": "Explore four detailed 3D rooms modeled and rendered by a coding agent from one reference image, with walkthroughs, object inspection, and downloadable models.",
+      "reviewed": false,
+      "created": "2026-10-07",
+      "license": "",
+      "repo": "https://github.com/Jivraj-18/dream-room-blender/"
+    },
+    {
       "icon": "bi-file-earmark-bar-graph",
       "title": "Financial Filing Search Benchmark",
       "url": "https://jivraj-18.github.io/benchmark-finance-pageindex/",
@@ -56,8 +87,8 @@
     {
       "icon": "bi-eye",
       "title": "LLM Counting Benchmark",
-      "url": "https://hrmiitm.github.io/llm-counting-benchmark/",
-      "description": "Explore nine vision models counting objects in six images, comparing exact matches, count deviation, stated confidence, and recorded API costs.",
+      "url": "https://hrmiitm.github.io/llm-counting-benchmark/reasoning.html",
+      "description": "Explore the cost-versus-quality curve for object counting, comparing LLMs at low, medium, and high reasoning levels with specialized deep learning models.",
       "reviewed": false,
       "created": "2026-09-30",
       "license": "",
