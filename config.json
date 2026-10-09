@@ -1,6 +1,30 @@
 {
   "demos": [
     {
+      "icon": "bi-speedometer2",
+      "title": "LLM Confidence Calibration",
+      "url": "https://sanand0.github.io/llmevals/confidence-calibration/",
+      "description": "Test how stated confidence, prompt wording, and token probabilities predict actual accuracy, then explore thresholds for routing banking-support requests to human review.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/llmevals/search?q=Straive&type=code",
+      "created": "2026-10-08",
+      "license": "",
+      "repo": "https://github.com/sanand0/llmevals/"
+    },
+    {
+      "icon": "bi-graph-up-arrow",
+      "title": "Decision Models vs Frontier LLMs",
+      "url": "https://sanand0.github.io/llmevals/jev/",
+      "description": "Compare 17 decision models and general-purpose LLMs on the same 77 banking-support requests, exploring the cost-quality frontier, latency, and confidence calibration.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/sanand0/llmevals/search?q=Straive&type=code",
+      "created": "2026-10-08",
+      "license": "",
+      "repo": "https://github.com/sanand0/llmevals/"
+    },
+    {
       "icon": "bi-bank",
       "title": "Rate Call Tracker",
       "url": "https://eshwarpotturi.github.io/rate-call-tracker/",
@@ -93,6 +117,17 @@
       "created": "2026-09-30",
       "license": "",
       "repo": "https://github.com/hrmiitm/llm-counting-benchmark/"
+    },
+    {
+      "icon": "bi-patch-check",
+      "title": "Global Energy Perspective Live Validation",
+      "url": "https://files.s-anand.net/pages/mckinsey-gep-validation/",
+      "description": "Explore 2,295 source-linked claims from McKinsey's energy reports, tracking source health, forecast accuracy, and revisions as new evidence emerges.",
+      "reviewed": false,
+      "created": "2026-08-27",
+      "license": "",
+      "repo": "",
+      "branded": true
     },
     {
       "icon": "bi-journal-text",
@@ -273,6 +308,16 @@
       "created": "2026-05-04",
       "license": "",
       "repo": "https://github.com/mynkpdr/journalists/"
+    },
+    {
+      "icon": "bi-journal-richtext",
+      "title": "Higher Education Content Pipeline",
+      "url": "https://files.s-anand.net/pages/ed-content-pipeline/",
+      "description": "Explore how textbooks become linked concepts, test banks, instructor manuals, study guides, adaptive activities, and games, with traceability back to source content.",
+      "reviewed": false,
+      "created": "2026-05-04",
+      "license": "",
+      "repo": ""
     },
     {
       "icon": "bi-bezier2",

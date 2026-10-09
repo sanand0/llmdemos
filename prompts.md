@@ -1,5 +1,20 @@
 # Prompts
 
+## Add new demos, 09 Oct 2026
+
+<!--
+cd ~/code/llmdemos/
+dev.sh -- codex --yolo --model gpt-6.1-sol --config model_reasoning_effort=medium
+-->
+
+Add these demos (dated based on their last modified date):
+https://files.s-anand.net/pages/mckinsey-gep-validation/
+https://files.s-anand.net/pages/ed-content-pipeline/
+https://sanand0.github.io/llmevals/confidence-calibration/
+https://sanand0.github.io/llmevals/jev/
+
+<!-- codex resume 01a120e8-b497-7031-b2df-f4d523c93deb --yolo -->
+
 ## Add new demos, 08 Oct 2026
 
 <!--
