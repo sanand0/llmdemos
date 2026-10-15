@@ -1,5 +1,30 @@
 # Prompts
 
+## Add new demos, 15 Oct 2026
+
+<!--
+cd ~/code/llmdemos/
+dev.sh -- codex --yolo --model gpt-6.1-sol --config model_reasoning_effort=medium
+-->
+
+Add these demos (dated based on their last modified date):
+https://atharva-729.github.io/base64-image-probe/
+https://atharva-729.github.io/clef-video-probe/
+https://atharva-729.github.io/nfl-clef/
+https://cargo3d.straivedemo.com/
+https://eshwarpotturi.github.io/agent-policy-leaks/
+https://eshwarpotturi.github.io/finqa-slm/
+https://eshwarpotturi.github.io/payments-slm/
+https://eshwarpotturi.github.io/slm-opti/
+https://github.com/Jivraj-18/voice-cloning-research/
+https://hrmiitm.github.io/llm-dl-models-benchmarkings/
+https://hrmiitm.github.io/sfd-test/
+https://jivraj-18.github.io/cad-bench/
+https://jivraj-18.github.io/world-models/
+https://sujalpradhan.github.io/automatic-brand-placement-audit/
+https://sujalpradhan.github.io/CBSE-Homework/
+https://sujalpradhan.github.io/Tokenomy-Analysis/
+
 ## Add new demos, 09 Oct 2026
 
 <!--

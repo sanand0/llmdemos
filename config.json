@@ -1,6 +1,171 @@
 {
   "demos": [
     {
+      "icon": "bi-broadcast",
+      "title": "NFL Broadcast Analysis",
+      "url": "https://atharva-729.github.io/nfl-clef/",
+      "description": "Replay an NFL quarter with Clef annotations, comparing score and clock reading, event detection, confidence, and processing cost.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/atharva-729/nfl-clef/"
+    },
+    {
+      "icon": "bi-shield-exclamation",
+      "title": "Agent Policy Leak Finder",
+      "url": "https://eshwarpotturi.github.io/agent-policy-leaks/",
+      "description": "Watch AI agents expose permission-policy gaps, inspect confirmed violations, and test policy fixes against further attacks.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/agent-policy-leaks/"
+    },
+    {
+      "icon": "bi-mic",
+      "title": "Local Voice Cloning Comparison",
+      "url": "https://jivraj-18.github.io/voice-cloning-research/",
+      "description": "Listen to OmniVoice and Chatterbox on eight matched scripts, with side-by-side audio, reference recordings, GPU timings, and memory measurements.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/Jivraj-18/voice-cloning-research/"
+    },
+    {
+      "icon": "bi-search",
+      "title": "Financial Retrieval Benchmark",
+      "url": "https://hrmiitm.github.io/sfd-test/",
+      "description": "Compare retrieval strategies for financial questions using recorded answers, source evidence, accuracy, and cost across indexed and agentic search benchmarks.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/hrmiitm/sfd-test/search?q=Straive&type=code",
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/hrmiitm/sfd-test/"
+    },
+    {
+      "icon": "bi-bounding-box",
+      "title": "Image-to-CAD Benchmark",
+      "url": "https://jivraj-18.github.io/cad-bench/",
+      "description": "Compare coding agents building CAD parts from engineering drawings, inspecting generated 3D geometry alongside accuracy, cost, and runtime.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/Jivraj-18/cad-bench/"
+    },
+    {
+      "icon": "bi-globe",
+      "title": "One Photo to Video and 3D",
+      "url": "https://jivraj-18.github.io/world-models/",
+      "description": "Compare world models given the same photo, playing generated videos and exploring 3D scenes alongside their running costs.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/Jivraj-18/world-models/"
+    },
+    {
+      "icon": "bi-badge-ad",
+      "title": "Automatic Brand Placement Audit",
+      "url": "https://sujalpradhan.github.io/automatic-brand-placement-audit/",
+      "description": "Explore sponsor exposure around World Cup goals, comparing brands’ screen time with OCR accuracy and processing costs.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "MIT",
+      "repo": "https://github.com/SujalPradhan/automatic-brand-placement-audit/"
+    },
+    {
+      "icon": "bi-rulers",
+      "title": "Measure It Homework",
+      "url": "https://sujalpradhan.github.io/CBSE-Homework/",
+      "description": "Explore hands-on CBSE Grade 6–8 homework that asks students to measure, observe, and reason, with guidance for teachers and AI use.",
+      "reviewed": false,
+      "created": "2026-10-15",
+      "license": "",
+      "repo": "https://github.com/SujalPradhan/CBSE-Homework/"
+    },
+    {
+      "icon": "bi-rocket-takeoff",
+      "title": "Clef Video Probe",
+      "url": "https://atharva-729.github.io/clef-video-probe/",
+      "description": "Replay a rocket-launch broadcast with AI annotations and explore how reliably Clef reads telemetry, detects events, and judges the action.",
+      "reviewed": false,
+      "created": "2026-10-14",
+      "license": "",
+      "repo": "https://github.com/atharva-729/clef-video-probe/"
+    },
+    {
+      "icon": "bi-image",
+      "title": "Base64 Image Probe",
+      "url": "https://atharva-729.github.io/base64-image-probe/",
+      "description": "Compare how language models reconstruct tiny images from base64 text without vision or tools, exploring pixel accuracy, reasoning effort, and cost.",
+      "reviewed": false,
+      "created": "2026-10-13",
+      "license": "",
+      "repo": "https://github.com/atharva-729/base64-image-probe/"
+    },
+    {
+      "icon": "bi-file-earmark-bar-graph",
+      "title": "Small Models for Financial Analysis",
+      "url": "https://eshwarpotturi.github.io/finqa-slm/",
+      "description": "Replay financial-report questions to compare how fine-tuning and escalation improve a small model’s numerical answers on FinQA.",
+      "reviewed": false,
+      "created": "2026-10-13",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/finqa-slm/"
+    },
+    {
+      "icon": "bi-speedometer2",
+      "title": "Sentiment Model Benchmark",
+      "url": "https://hrmiitm.github.io/llm-dl-models-benchmarkings/",
+      "description": "Compare language, deep learning, and decision models on a shared sentiment test set, exploring accuracy, cost, and confidence calibration.",
+      "reviewed": false,
+      "branded": true,
+      "brands": "Straive | https://github.com/hrmiitm/llm-dl-models-benchmarkings/search?q=Straive&type=code",
+      "created": "2026-10-13",
+      "license": "",
+      "repo": "https://github.com/hrmiitm/llm-dl-models-benchmarkings/"
+    },
+    {
+      "icon": "bi-code-slash",
+      "title": "Developer AI Usage vs Engineering Output",
+      "url": "https://sujalpradhan.github.io/Tokenomy-Analysis/",
+      "description": "Explore disclosures from 53 companies linking developer AI adoption to code share, engineering output, productivity gains, and counter-evidence.",
+      "reviewed": false,
+      "created": "2026-10-13",
+      "license": "",
+      "repo": "https://github.com/SujalPradhan/Tokenomy-Analysis/"
+    },
+    {
+      "icon": "bi-credit-card",
+      "title": "Small Models for Payments Operations",
+      "url": "https://eshwarpotturi.github.io/payments-slm/",
+      "description": "Compare rules and fine-tuning on 150 merchant requests, replaying payment actions to see which safeguards prevent incorrect transactions.",
+      "reviewed": false,
+      "created": "2026-10-12",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/payments-slm/"
+    },
+    {
+      "icon": "bi-graph-up-arrow",
+      "title": "Making Small Models Dependable",
+      "url": "https://eshwarpotturi.github.io/slm-opti/",
+      "description": "Explore two financial case studies showing how checks, fine-tuning, and selective escalation improve small-model accuracy and cost.",
+      "reviewed": false,
+      "created": "2026-10-09",
+      "license": "",
+      "repo": "https://github.com/eshwarpotturi/slm-opti/"
+    },
+    {
+      "icon": "bi-box-seam",
+      "title": "Cargo 3D",
+      "url": "https://cargo3d.straivedemo.com/",
+      "description": "Explore a synthetic cargo warehouse in 3D, tracking flights, cargo containers, and build deadlines to spot departures at risk.",
+      "reviewed": false,
+      "created": "2026-10-09",
+      "license": "",
+      "repo": "",
+      "branded": true
+    },
+    {
       "icon": "bi-speedometer2",
       "title": "LLM Confidence Calibration",
       "url": "https://sanand0.github.io/llmevals/confidence-calibration/",
