@@ -1690,15 +1690,15 @@
     },
     {
       "icon": "bi-person",
-      "title": "Personagen",
-      "url": "https://nitin399-maker.github.io/personagen/",
+      "title": "PersonaGen",
+      "url": "https://sanand0.github.io/personagen/",
       "description": "Generates synthetic audience based on profiles to test marketing campaigns and run surveys.",
       "reviewed": true,
       "branded": true,
-      "brands": "Straive | https://github.com/nitin399-maker/personagen/search?q=Straive&type=code",
+      "brands": "Straive | https://github.com/sanand0/personagen/search?q=Straive&type=code",
       "created": "2025-05-28",
       "license": "",
-      "repo": "https://github.com/nitin399-maker/personagen/"
+      "repo": "https://github.com/sanand0/personagen/"
     },
     {
       "icon": "bi-bar-chart-line",
